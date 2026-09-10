@@ -5,6 +5,10 @@
     "coverImage": "/categories/cat_msci2uhk_mmfci0-1785717718356.png"
   },
   {
+    "slug": "sports-broadcast",
+    "label": "스포츠·직관"
+  },
+  {
     "slug": "bw-portrait",
     "label": "흑백 인물"
   },
@@ -83,5 +87,29 @@
   {
     "slug": "fantasy-cosplay",
     "label": "판타지·코스프레"
+  },
+  {
+    "slug": "photo-restoration",
+    "label": "사진 복원"
+  },
+  {
+    "slug": "age-parallel",
+    "label": "나이·평행세계"
+  },
+  {
+    "slug": "brand-mockup",
+    "label": "로고·브랜드 목업"
+  },
+  {
+    "slug": "caricature",
+    "label": "캐리커처"
+  },
+  {
+    "slug": "car-bike",
+    "label": "자동차·바이크"
+  },
+  {
+    "slug": "dreamy-edit",
+    "label": "몽환 에디트"
   }
 ]
