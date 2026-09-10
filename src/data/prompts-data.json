@@ -2918,5 +2918,77 @@
       "패키지"
     ],
     "promptText": "[GOAL] Show the uploaded logo printed on a café takeout cup.\n\n[LOGO FIDELITY — HIGHEST PRIORITY] The uploaded image is the exact logo to apply. Reproduce its shapes, proportions, spacing, colors and any lettering exactly as supplied — do not redraw, restyle, simplify, re-letter, recolor, or add a tagline or extra text. If the mark in the result would not match the original when laid over it, the image has failed.\n\n[OBJECTS] A paper takeout cup with a plastic lid and a cardboard sleeve, the logo printed on the cup body, curving naturally with the cylinder. A second smaller cup beside it and a paper bag with the logo folded at the top.\n\n[MATERIAL] Matte paper cup with a slight texture, a kraft or single-color sleeve, subtle condensation-free surfaces.\n\n[SET] A café counter by a window, soft daylight, a blurred espresso machine behind.\n\n[LIGHT] Soft window light from the side, gentle shadows.\n\n[CAMERA] 50mm at f/4, three-quarter angle, the cups sharp.\n\n[DO NOT] Do not change, redraw, or add text to the logo. Do not add any other readable text or real café brand. Do not distort the logo beyond the natural curve of the cup. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with logo fidelity, logo fidelity wins — lighting, material and scene may all bend before the mark does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "mckitty-paper-hat-selfie",
+    "title": "맥도날드 고양이 모자 셀카",
+    "summary": "감튀 종이로 접은 고양이 귀 모자를 쓰고 찍은 셀카",
+    "categorySlug": "sns-challenge",
+    "aspectRatio": "4:5",
+    "tags": [
+      "맥도날드고양이",
+      "감튀고양이",
+      "셀카",
+      "챌린지"
+    ],
+    "promptText": "[GOAL] A casual selfie of the uploaded person wearing the viral paper cat-ear hat at a fast-food restaurant.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[THE HAT] The person wears a cat-ear hat folded from a red fast-food fries carton — a snug paper band around the head topped with two pointed triangular cat ears made from the carton's folded top edge, bright red with yellow accents, visible fold creases, slightly uneven by hand, a tiny grease spot on one side. It sits slightly crooked on the head, a few strands of hair poking out under the band.\n\n[MOMENT] Seated at a restaurant table, one hand making a loose \"cat paw\" curl beside the cheek, the other holding a single fry up near the mouth. A playful, slightly embarrassed smile, eyes toward the phone camera.\n\n[TABLE] A tray with an open red fries carton, a paper cup with a straw, a burger half-unwrapped from its paper, a crumpled napkin.\n\n[LIGHT] Bright, even overhead restaurant lighting with a little window daylight from the side — the ordinary, unflattering light of a real fast-food place.\n\n[CAMERA] Front-facing phone camera at arm's length, slight wide-angle feel, a touch of noise, casual framing.\n\n[DO NOT] Do not render any real fast-food brand's logo, golden arches, mascot, or readable wordmark — the red-and-yellow packaging colors carry the look on their own. Do not beautify the skin, enlarge the eyes, or add a beauty filter. Do not render the hat as fabric or plastic — it is folded paper. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "mckitty-couple-date",
+    "title": "맥도날드 고양이 커플 데이트",
+    "summary": "둘 다 고양이 모자를 쓰고 감튀를 먹여주는 커플 샷",
+    "categorySlug": "sns-challenge",
+    "aspectRatio": "4:5",
+    "tags": [
+      "맥도날드고양이",
+      "커플",
+      "데이트",
+      "챌린지"
+    ],
+    "promptText": "[GOAL] The uploaded couple on a fast-food date, both wearing the viral paper cat-ear hats.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photos are the only source of truth for who these people are. Reproduce each person's exact face shape, eye shape and spacing, nose, lip shape, jawline, skin tone and hairstyle, along with glasses or distinguishing marks. Keep every face clearly distinct from the others — do not average them toward a shared look, do not swap features between them, and do not beautify anyone. If any one of them would not be recognized instantly, the image has failed.\n\n[THE HATS] Each person wears a cat-ear hat folded from a red fast-food fries carton — a snug paper band around the head topped with two pointed triangular cat ears made from the carton's folded top edge, bright red with yellow accents, visible fold creases, slightly uneven by hand, a tiny grease spot on one side. One hat is folded a little neater than the other, as if one of them made both.\n\n[MOMENT] Sitting side by side in a restaurant booth, one feeding the other a fry while the other laughs with their mouth open, heads tilted toward each other. Genuinely silly, not posed.\n\n[TABLE] A shared tray with two open fries cartons, two drinks, burger wrappers, a small pile of napkins.\n\n[LIGHT] Bright overhead restaurant light, a window behind them with soft daylight.\n\n[CAMERA] Shot by a friend across the table on a phone, 26mm equivalent, both faces sharp, slight tilt.\n\n[DO NOT] Do not merge the two faces or make them resemble each other. Do not render any real fast-food brand's logo, golden arches, mascot, or readable wordmark — the red-and-yellow packaging colors carry the look on their own. Do not beautify either skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "mckitty-pet-paper-hat",
+    "title": "반려동물 맥도날드 고양이 모자",
+    "summary": "우리 집 고양이·강아지가 작은 감튀 종이 모자를 쓴 사진",
+    "categorySlug": "sns-challenge",
+    "aspectRatio": "4:5",
+    "tags": [
+      "맥도날드고양이",
+      "반려동물",
+      "고양이",
+      "챌린지"
+    ],
+    "promptText": "[GOAL] The uploaded pet wearing a tiny version of the viral paper cat-ear hat.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[THE HAT] A small a cat-ear hat folded from a red fast-food fries carton — a snug paper band around the head topped with two pointed triangular cat ears made from the carton's folded top edge, bright red with yellow accents, visible fold creases, slightly uneven by hand, a tiny grease spot on one side, sized to the animal and resting between or just in front of its real ears so the markings stay visible.\n\n[EXPRESSION] The deadpan, faintly offended look of a pet tolerating a hat — eyes half-lidded or staring straight into the lens, ears slightly angled.\n\n[SET] Sitting on a table beside an open red fries carton and a paper cup, a crumpled napkin nearby. Home or café setting, simple background.\n\n[LIGHT] Soft window daylight from the side, gentle fill, clean catchlights in the eyes.\n\n[CAMERA] 50mm at f/2.8 at the animal's eye level, head-and-shoulders framing, fur texture crisp.\n\n[DO NOT] Do not change the breed, coat, or markings. Do not let the hat cover the eyes or face. Do not render any real fast-food brand's logo, golden arches, mascot, or readable wordmark — the red-and-yellow packaging colors carry the look on their own. Do not render it as an illustration. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "kids-meal-box-cat",
+    "title": "해피밀 박스 속 고양이",
+    "summary": "어린이 세트 종이 박스 안에서 빼꼼 내다보는 반려묘",
+    "categorySlug": "sns-challenge",
+    "aspectRatio": "4:5",
+    "tags": [
+      "해피밀고양이",
+      "고양이",
+      "반려동물",
+      "챌린지"
+    ],
+    "promptText": "[GOAL] The uploaded pet sitting inside a kids' meal paper box, peeking out as if it came with the meal.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[THE BOX] A red kids' meal carry box with a folded paper handle arch on top, one side flap open. The animal sits inside with its head and front paws resting over the edge, the handle arching over its head. A couple of fries and a small toy lie on the table beside the box.\n\n[EXPRESSION] Calm, curious and a little smug, as if it belongs there. Ears alert, eyes on the camera.\n\n[SET] A restaurant or home table, the background soft and simple.\n\n[LIGHT] Bright, soft daylight, gentle shadows inside the box so the face stays well lit.\n\n[CAMERA] 50mm at f/2.8, straight on at the animal's eye level, fur and cardboard texture sharp.\n\n[DO NOT] Do not change the breed, coat, or markings. Do not squash or distort the animal to fit the box. Do not render any real fast-food brand's logo, golden arches, mascot, or readable wordmark — the red-and-yellow packaging colors carry the look on their own. Do not render it as an illustration. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do."
   }
 ]
