@@ -2666,5 +2666,257 @@
       "코스프레"
     ],
     "promptText": "[GOAL] Cast the uploaded person as an elegant gothic vampire in an old castle.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[CHARACTER] Victorian gothic attire: a high-collared black velvet coat or gown with deep red lining, lace cuffs, an antique brooch. Pale skin tone shifted only slightly from their real tone, a faint dark red lip. No fangs showing — the mood is elegant, not horror.\n\n[SCENE] A candlelit castle hall with a tall arched window, moonlight outside, heavy drapes, a candelabra.\n\n[LIGHT] Warm flickering candlelight as the key from one side, cold blue moonlight rimming the other side.\n\n[CAMERA] 85mm at f/2, three-quarter body, the face sharp.\n\n[FINISH] Rich dark grade, deep blacks with detail, fine grain.\n\n[DO NOT] Do not show blood, gore, or fangs. Do not change the face into a generic vampire. Do not smooth the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "baseball-first-pitch",
+    "title": "야구장 시구하는 나",
+    "summary": "마운드 위에서 시구하는 순간을 잡은 중계 화면",
+    "categorySlug": "sports-broadcast",
+    "aspectRatio": "16:9",
+    "tags": [
+      "야구",
+      "시구",
+      "중계캡처",
+      "직관"
+    ],
+    "promptText": "[GOAL] A live baseball broadcast frame of the uploaded person throwing the ceremonial first pitch.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[MOMENT] On the pitcher's mound, mid-throw: front leg planted, throwing arm extended forward, the ball just leaving the hand. The expression is concentrated with a half-laugh of nerves — not a polished athlete's form. They wear a replica jersey in [YOUR TEAM COLORS] over casual pants and sneakers.\n\n[SCENE] A daytime ballpark, the catcher crouched out of focus in the distance, the packed stands behind, a mascot and a few staff at the edge of the infield grass.\n\n[BROADCAST LOOK] 16:9 TV frame from the center-field camera on a long lens: compressed perspective, slightly soft live-feed resolution, motion blur on the throwing arm, compression noise in the shadows. A generic lower-third graphic with abstract glyphs.\n\n[DO NOT] Do not render readable team names, sponsor logos, league marks, or broadcaster logos anywhere — every graphic and jersey lettering stays abstract. Do not use a real athlete's or celebrity's likeness. Do not beautify the skin, enlarge the eyes, or make the subject look like a model or influencer. Do not render it as a clean, sharp photograph — it is a TV frame. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "player-intro-broadcast-graphic",
+    "title": "선수 소개 중계 화면",
+    "summary": "타석 등장 전 선수 소개 그래픽 속 주인공이 된 나",
+    "categorySlug": "sports-broadcast",
+    "aspectRatio": "16:9",
+    "tags": [
+      "야구",
+      "선수소개",
+      "중계그래픽",
+      "프로필"
+    ],
+    "promptText": "[GOAL] A sports broadcast player-introduction screen with the uploaded person as the featured player.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[LAYOUT] 16:9 TV graphic. On the left, a cut-out studio portrait of the person in a team uniform in [YOUR TEAM COLORS], arms crossed, confident half-smile, lit dramatically against the graphic. On the right, a stats panel with a jersey number block, three stat rows and a small team-color bar — every number and word rendered as abstract glyphs, never readable.\n\n[DESIGN] Modern sports-broadcast design language: angled color panels, subtle motion streaks, a light glow behind the portrait, a thin animated-looking line sweeping across.\n\n[BACKGROUND] A blurred stadium at night filling the rest of the frame.\n\n[DO NOT] Do not render any readable name, number, team, or league mark. Do not use a real athlete's likeness or a real broadcaster's graphic style. Do not beautify the skin. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "esports-arena-crowd",
+    "title": "e스포츠 경기장 관중석",
+    "summary": "결승전 e스포츠 아레나 관중석에서 잡힌 중계 컷",
+    "categorySlug": "sports-broadcast",
+    "aspectRatio": "16:9",
+    "tags": [
+      "e스포츠",
+      "게임",
+      "관중캠",
+      "직관"
+    ],
+    "promptText": "[GOAL] An esports tournament broadcast frame catching the uploaded person in the arena crowd during a decisive moment.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[MOMENT] The person stands with both hands on their head in disbelief, mouth open, holding a glowing cheer stick in [YOUR TEAM COLORS]. Fans around them react at slightly different moments — some screaming, some frozen.\n\n[SCENE] A dark arena lit mostly by giant stage screens and colored LED rigs off frame, the crowd bathed in shifting blue and magenta light, the stage glow reflecting on faces.\n\n[BROADCAST LOOK] 16:9 TV frame on a long lens: compressed rows, strong colored lighting, motion blur on moving hands, compression noise in the dark areas. A generic score and team bar with abstract glyphs at the top.\n\n[DO NOT] Do not render readable team names, sponsor logos, league marks, or broadcaster logos anywhere — every graphic and jersey lettering stays abstract. Do not use a real athlete's or celebrity's likeness. Do not beautify the skin, enlarge the eyes, or make the subject look like a model or influencer. Do not render it as a clean, sharp photograph — it is a TV frame. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "volleyball-arena-cheer",
+    "title": "배구장 응원석",
+    "summary": "실내 배구장 응원석에서 막대풍선을 두드리는 관중",
+    "categorySlug": "sports-broadcast",
+    "aspectRatio": "16:9",
+    "tags": [
+      "배구",
+      "응원",
+      "중계캡처",
+      "직관"
+    ],
+    "promptText": "[GOAL] An indoor volleyball broadcast frame catching the uploaded person cheering in the stands.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[MOMENT] Mid-rally tension: the person is on their feet banging inflatable thundersticks together, mouth open mid-chant, wearing a team t-shirt in [YOUR TEAM COLORS]. Neighbors on both sides are doing the same, slightly out of sync.\n\n[SCENE] A bright indoor arena, the net and a blurred player's arm crossing the edge of the frame, banners and flags hanging in the stands.\n\n[BROADCAST LOOK] 16:9 TV frame on a long lens, flat bright arena lighting, mild broadcast sharpening halos, motion blur on the thundersticks, compression noise. A generic set-score bar with abstract glyphs.\n\n[DO NOT] Do not render readable team names, sponsor logos, league marks, or broadcaster logos anywhere — every graphic and jersey lettering stays abstract. Do not use a real athlete's or celebrity's likeness. Do not beautify the skin, enlarge the eyes, or make the subject look like a model or influencer. Do not render it as a clean, sharp photograph — it is a TV frame. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "hug-younger-self",
+    "title": "어린 시절의 나를 안아주기",
+    "summary": "지금의 내가 어린 시절의 나를 안아주는 장면",
+    "categorySlug": "age-parallel",
+    "aspectRatio": "4:5",
+    "tags": [
+      "어린시절",
+      "감동",
+      "지금과그때",
+      "나이변화"
+    ],
+    "promptText": "[GOAL] The uploaded person as they are today, hugging a younger version of themselves.\n\n[INPUTS] Two uploaded photos: a current photo of the person, and a childhood photo of the same person.\n\n[IDENTITY — HIGHEST PRIORITY] The adult must match the current photo exactly — face shape, eyes, nose, marks, hairstyle. The child must match the childhood photo exactly — including that photo's clothing, hairstyle and expression. It must read unmistakably as the same person meeting themselves across time.\n\n[MOMENT] The adult kneels or sits so they are at the child's height and wraps both arms around them. The child rests their head on the adult's shoulder. Warm, quiet, a little emotional — not staged.\n\n[LIGHT] Soft window daylight, gentle and warm, the same light falling on both so they feel like they share the room.\n\n[LOOK] The texture of a real photograph with subtle film grain, natural color.\n\n[DO NOT] Do not change either face or make them look like different people. Do not modernize the child's clothing. Do not beautify either skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "outdoor-wedding-snap",
+    "title": "야외 웨딩 스냅",
+    "summary": "들판 위 자연광 속 드레스·턱시도 웨딩 스냅",
+    "categorySlug": "couple-friends",
+    "aspectRatio": "4:5",
+    "tags": [
+      "웨딩스냅",
+      "커플",
+      "야외",
+      "자연광"
+    ],
+    "promptText": "[GOAL] An outdoor pre-wedding snapshot of the uploaded couple.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photos are the only source of truth for who these people are. Reproduce each person's exact face shape, eye shape and spacing, nose, lip shape, jawline, skin tone and hairstyle, along with glasses or distinguishing marks. Keep every face clearly distinct from the others — do not average them toward a shared look, do not swap features between them, and do not beautify anyone. If any one of them would not be recognized instantly, the image has failed.\n\n[STYLING] A simple elegant wedding dress and a well-fitted suit or tuxedo, understated and timeless. A small loose bouquet.\n\n[MOMENT] Walking hand in hand through a golden field of tall grass, one turning back toward the other mid-laugh, the dress hem and grass moving in a light breeze. Candid, not posed toward the camera.\n\n[LIGHT] Low golden-hour sun behind them, warm rim light on the hair and shoulders, soft flare across the frame, gentle bounce from the grass on the faces.\n\n[CAMERA] 85mm at f/2 from a little distance, full body, both faces sharp.\n\n[FINISH] Warm airy film-like grade, soft highlights, fine grain.\n\n[DO NOT] Do not merge the two faces. Do not beautify the skin. Do not add readable text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "bw-studio-wedding",
+    "title": "흑백 스튜디오 웨딩",
+    "summary": "정갈한 흑백 스튜디오 웨딩 촬영 컷",
+    "categorySlug": "couple-friends",
+    "aspectRatio": "4:5",
+    "tags": [
+      "웨딩",
+      "흑백",
+      "스튜디오",
+      "커플"
+    ],
+    "promptText": "[GOAL] A classic black and white studio wedding portrait of the uploaded couple.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photos are the only source of truth for who these people are. Reproduce each person's exact face shape, eye shape and spacing, nose, lip shape, jawline, skin tone and hairstyle, along with glasses or distinguishing marks. Keep every face clearly distinct from the others — do not average them toward a shared look, do not swap features between them, and do not beautify anyone. If any one of them would not be recognized instantly, the image has failed.\n\n[STYLING] A clean wedding dress with a long veil, a black tuxedo, minimal jewelry.\n\n[POSE] Standing close, one partner behind the other with arms around the waist, the veil draping over both shoulders. One looking at the camera, the other with eyes closed and a soft smile.\n\n[SET] A plain seamless gray backdrop.\n\n[LIGHT] A large soft key from the upper left sculpting both faces, a gentle rim light separating the veil from the backdrop.\n\n[LOOK] Rich monochrome with a full tonal range, luminous whites in the veil that keep detail, fine grain.\n\n[CAMERA] 85mm at f/4, three-quarter body, both faces sharp.\n\n[DO NOT] Do not output color. Do not merge the faces. Do not smooth the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "chuseok-full-moon-hanbok",
+    "title": "추석 보름달 한복 스냅",
+    "summary": "보름달 뜬 한옥 마당에서 찍은 추석 한복 사진",
+    "categorySlug": "seasonal",
+    "aspectRatio": "4:5",
+    "tags": [
+      "추석",
+      "보름달",
+      "한복",
+      "명절"
+    ],
+    "promptText": "[GOAL] A Chuseok evening portrait of the uploaded person in hanbok beneath the full moon.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[WARDROBE] A hanbok with believable construction — jeogori with a curved sleeve line and goreum tied at the chest, a full chima or baji — in warm autumn colors.\n\n[SCENE] The courtyard of a traditional hanok at dusk, a huge full moon rising over the tiled roof, paper lanterns glowing along the eaves, a low table with a plate of songpyeon and persimmons nearby.\n\n[MOMENT] Looking up at the moon with a quiet smile, one hand resting on the goreum.\n\n[LIGHT] Warm lantern light as the key on the face, cool blue dusk light and moonlight rimming the silhouette.\n\n[CAMERA] 50mm at f/2, three-quarter body, the moon large and softly glowing behind.\n\n[DO NOT] Do not mix in other countries' traditional dress. Do not render readable text. Do not over-retouch the skin. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "halloween-costume-party",
+    "title": "할로윈 파티 코스튬",
+    "summary": "호박 조명 가득한 할로윈 파티의 코스튬 인물",
+    "categorySlug": "seasonal",
+    "aspectRatio": "4:5",
+    "tags": [
+      "할로윈",
+      "코스튬",
+      "파티",
+      "시즌"
+    ],
+    "promptText": "[GOAL] The uploaded person in costume at a Halloween house party.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[COSTUME] A fun, clearly homemade costume that doesn't hide the face — a witch hat and cape, a vintage vampire collar, or a skeleton hoodie — with a little face paint that leaves the features fully readable.\n\n[SCENE] A living room decorated for the party: carved glowing pumpkins, string lights, fake cobwebs, other costumed guests blurred in the background holding drinks.\n\n[MOMENT] Mid-laugh, holding a small candy bowl, caught by a friend's flash.\n\n[LIGHT] On-camera flash on the subject against warm orange pumpkin glow and purple string lights in the background.\n\n[LOOK] Casual party snapshot, slight grain, a touch of flash falloff.\n\n[DO NOT] Do not cover the face with a mask or heavy makeup. Do not render gore. Do not use a real franchise's costume. Do not beautify the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "pet-figurine-box",
+    "title": "반려동물 피규어 박스",
+    "summary": "우리 집 반려동물이 수집형 피규어가 된 박스 컷",
+    "categorySlug": "pet",
+    "aspectRatio": "1:1",
+    "tags": [
+      "반려동물",
+      "피규어",
+      "토이피케이션",
+      "굿즈"
+    ],
+    "promptText": "[GOAL] Turn the uploaded pet into a collectible figurine displayed with its packaging.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[FIGURE] A 1/6 scale painted PVC figure of the animal in its most characteristic pose, standing on a round clear acrylic base. The paint job reproduces the exact coat pattern and markings, with glossy eyes and a satin coat finish.\n\n[PACKAGING] Beside it, an opened window box printed with an illustration of the same pet, a blank logo plate and a placeholder barcode block — all lettering abstract.\n\n[SET] A clean desk, a soft blurred background.\n\n[LIGHT] Softbox key from the upper left, cool fill from the right, a clean contact shadow.\n\n[CAMERA] 85mm macro at figure eye level, the figure sharp, the box slightly soft.\n\n[DO NOT] Do not change the breed, coat, or markings. Do not render readable text or a real brand logo. Do not render the figure as a real animal. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "pet-sticker-sheet",
+    "title": "반려동물 스티커 시트",
+    "summary": "여러 표정의 우리 집 반려동물 다이컷 스티커",
+    "categorySlug": "pet",
+    "aspectRatio": "1:1",
+    "tags": [
+      "반려동물",
+      "스티커",
+      "굿즈",
+      "캐릭터"
+    ],
+    "promptText": "[GOAL] A die-cut sticker sheet of the uploaded pet as a cute cartoon character.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[CONTENT] Eight stickers of the same animal in different moods and poses: sleeping curled up, begging with big eyes, zoomies mid-run, sulking, tongue out, wearing a tiny party hat, holding a toy, and a happy head-only close-up. The coat pattern and markings stay exactly consistent in every sticker.\n\n[ART STYLE] Clean cartoon illustration with bold uniform outlines, flat fills with one soft shadow tone, bright cheerful palette.\n\n[SHEET] Each sticker has a thick white die-cut border with faint kiss-cut lines, packed at slight angles on a plain backing sheet, with a subtle glossy sheen.\n\n[DO NOT] Do not change the markings between stickers. Do not render readable text. Do not overlap stickers. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "action-figure-starter-pack",
+    "title": "액션 피규어 스타터팩",
+    "summary": "내 취미 소품이 함께 들어간 블리스터 포장 액션 피규어",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "aspectRatio": "3:4",
+    "tags": [
+      "피규어",
+      "스타터팩",
+      "블리스터",
+      "액션피규어"
+    ],
+    "promptText": "[GOAL] The uploaded person as an action figure sealed in a blister-card \"starter pack\", with accessories from their everyday life.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[PACKAGING] A tall cardboard backing card with a clear molded plastic blister on the front. Inside, the figure stands in its own shaped cavity on the left, and four to six small accessories sit in their own cavities on the right — pick items that fit a believable personal lifestyle, such as a laptop, a coffee cup, headphones, a camera, running shoes, a small plant.\n\n[CARD DESIGN] A bold color card with a hanging hole at the top, a big blank title band and small blank label areas beside each accessory. All lettering is abstract and unreadable.\n\n[FIGURE] Painted plastic action figure with visible articulation joints at the shoulders and knees, the outfit matching the reference photo.\n\n[LIGHT] Clean studio product lighting with a crisp highlight across the plastic blister.\n\n[CAMERA] Straight-on front view, everything sharp.\n\n[DO NOT] Do not render readable text, names, or a real toy brand's design or logo. Do not render extra or fused fingers. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "neon-sign-logo-mockup",
+    "title": "로고 네온사인 목업",
+    "summary": "벽돌 벽에 걸린 내 로고 네온사인",
+    "categorySlug": "brand-mockup",
+    "aspectRatio": "4:5",
+    "tags": [
+      "로고목업",
+      "네온사인",
+      "인테리어",
+      "브랜딩"
+    ],
+    "promptText": "[GOAL] Show the uploaded logo as a glowing neon sign mounted on a wall.\n\n[LOGO FIDELITY — HIGHEST PRIORITY] The uploaded image is the exact logo to apply. Reproduce its shapes, proportions, spacing, colors and any lettering exactly as supplied — do not redraw, restyle, simplify, re-letter, recolor, or add a tagline or extra text. If the mark in the result would not match the original when laid over it, the image has failed.\n\n[SIGN] The logo is traced in bent glass neon tubes following its exact outline, mounted on a clear acrylic backing panel with small metal standoffs. Colors match the logo as closely as neon allows; if the logo has filled areas, render their outlines faithfully rather than inventing new shapes. Thin power cables run down from the panel.\n\n[SCENE] A dark exposed-brick wall in a café or studio at night, a few plants and a wooden shelf softly visible at the edges.\n\n[LIGHT] The neon is the main light source, casting a colored glow and soft halo onto the brick around it, with a faint reflection on a nearby surface.\n\n[CAMERA] 35mm at f/2.8 straight on, the sign sharp.\n\n[DO NOT] Do not change the logo's shapes, proportions, or lettering. Do not add any other readable text. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with logo fidelity, logo fidelity wins — lighting, material and scene may all bend before the mark does."
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-09-10",
+    "id": "takeout-cup-logo-mockup",
+    "title": "테이크아웃 컵 목업",
+    "summary": "내 로고가 인쇄된 카페 테이크아웃 컵과 슬리브",
+    "categorySlug": "brand-mockup",
+    "aspectRatio": "1:1",
+    "tags": [
+      "로고목업",
+      "카페",
+      "테이크아웃",
+      "패키지"
+    ],
+    "promptText": "[GOAL] Show the uploaded logo printed on a café takeout cup.\n\n[LOGO FIDELITY — HIGHEST PRIORITY] The uploaded image is the exact logo to apply. Reproduce its shapes, proportions, spacing, colors and any lettering exactly as supplied — do not redraw, restyle, simplify, re-letter, recolor, or add a tagline or extra text. If the mark in the result would not match the original when laid over it, the image has failed.\n\n[OBJECTS] A paper takeout cup with a plastic lid and a cardboard sleeve, the logo printed on the cup body, curving naturally with the cylinder. A second smaller cup beside it and a paper bag with the logo folded at the top.\n\n[MATERIAL] Matte paper cup with a slight texture, a kraft or single-color sleeve, subtle condensation-free surfaces.\n\n[SET] A café counter by a window, soft daylight, a blurred espresso machine behind.\n\n[LIGHT] Soft window light from the side, gentle shadows.\n\n[CAMERA] 50mm at f/4, three-quarter angle, the cups sharp.\n\n[DO NOT] Do not change, redraw, or add text to the logo. Do not add any other readable text or real café brand. Do not distort the logo beyond the natural curve of the cup. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with logo fidelity, logo fidelity wins — lighting, material and scene may all bend before the mark does."
   }
 ]
