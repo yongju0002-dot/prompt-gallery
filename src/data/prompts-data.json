@@ -1,0 +1,1320 @@
+[
+  {
+    "id": "p_msciwlgn_xzhiy1",
+    "title": "풀 세트 언박싱 플랫레이 피규어",
+    "summary": "닫힌 박스, 열린 박스, 조립된 피규어와 액세서리를 함께 배치한 이커머스 플랫레이 컷",
+    "promptText": "[GOAL] A premium e-commerce flat-lay showing a complete collectible figure set based on the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[LAYOUT] Shot straight down onto a clean neutral surface. The closed retail box sits in the upper left, the opened box beside it with its lid angled away, the fully assembled figure centered, and small accessories — interchangeable face plates, a stand, a prop or two — arranged along the lower right. Leave clear breathing space between every element; nothing overlaps.\n\n[MATERIAL] Matte cardboard box with a subtle print texture and visible fold seams. The figure reads as painted PVC: satin body, glossy eyes and hair highlights, faint mold seam lines. Box art is a stylized illustration of the same person, printed with a slight halftone grain.\n\n[LIGHT] Broad diffused overhead light, no hard shadows, only a soft contact shadow directly under each object. Neutral white balance, colors true to the product.\n\n[CAMERA] Perfectly perpendicular top-down angle, 35mm equivalent, deep focus so every item is sharp corner to corner.\n\n[DO NOT] Do not print any readable text, brand name, or barcode digits anywhere — leave lettering as abstract marks. Do not include a real company logo. Do not render extra, fused, or missing fingers on the figure. Do not let objects overlap or crowd the frame. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "1:1",
+    "tags": [
+      "피규어",
+      "언박싱",
+      "플랫레이",
+      "풀세트",
+      "이커머스"
+    ],
+    "mediaUrl": "/prompts/p_msciwlgn_xzhiy1.png",
+    "needsReferencePhoto": true,
+    "createdAt": "2026-08-03"
+  },
+  {
+    "id": "p_msciuxfa_dzzk1j",
+    "title": "하이퍼리얼 아트토이 피규어",
+    "summary": "갤러리 전시대에 놓인 고급 아트토이 컨셉. 피부 질감과 머리카락 디테일까지 사실적으로 조각된 프리미엄 수집품 느낌",
+    "promptText": "[GOAL] A gallery-lit hyperrealistic art-toy statue of the uploaded person, photographed like a high-end collectible.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SUBJECT] A premium designer art toy sculpted at roughly 1/6 scale, standing in a natural weight-shifted pose. Sculpting is hyperreal: individually defined hair strands, believable fabric folds with visible weave, subtle skin micro-relief, and hand-painted tonal variation across the face rather than flat color.\n\n[SET] A single figure on a matte black museum pedestal, deep charcoal gallery wall falling off into darkness behind.\n\n[LIGHT] A soft key from the upper left shaping the face, a hard rim light from the back right separating the silhouette from the dark wall, and a faint bounce from below to keep the shadow side readable. Strong contrast, cinematic falloff.\n\n[CAMERA] 85mm at f/2.8, slightly below eye level looking up for presence, figure placed on the left third, background dissolving into soft bokeh.\n\n[FINISH] Resin and vinyl materials — satin skin, semi-gloss lips and eyes, matte clothing. Include the small honest imperfections of a hand-painted collectible: a faint brush edge, a barely visible seam.\n\n[DO NOT] Do not make it look like a cheap glossy plastic toy. Do not flatten the lighting. Do not render extra or fused fingers. Do not add text, a watermark, or a real brand logo.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "피규어",
+      "아트토이",
+      "하이퍼리얼",
+      "갤러리",
+      "프리미엄"
+    ],
+    "mediaUrl": "/prompts/p_msciuxfa_dzzk1j.png",
+    "needsReferencePhoto": true,
+    "createdAt": "2026-08-03"
+  },
+  {
+    "id": "p_mscit3eb_4mc1tj",
+    "title": "치비 SD 캐릭터 피규어",
+    "summary": "2~3등신 치비 비율로 단순화하면서도 헤어스타일과 눈매는 유지한 글로시 비닐토이 스타일",
+    "promptText": "[GOAL] A glossy chibi vinyl toy of the uploaded person, shot as a clean studio product image.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Even after simplifying into chibi form, carry over the traits that make them recognizable: hairstyle and hair color, eye shape and spacing, eyebrow angle, skin tone, and any glasses or accessories. Simplify geometry, never identity. If the toy could be mistaken for a generic chibi character, the image has failed.\n\n[SUBJECT] A super-deformed vinyl figure at roughly 1:2 head-to-body proportion — oversized rounded head, small compact body, tiny simplified hands and feet. Facial features are reduced to clean shapes but keep the reference person's specific eye shape and hairline.\n\n[MATERIAL] Glossy injection-molded vinyl with a smooth seamless surface, saturated pastel palette, soft specular highlight across the top of the head and shoulders.\n\n[SET] Standing centered on a round glossy display base, plain seamless pastel or light gray backdrop, nothing else in frame.\n\n[LIGHT] Symmetrical studio lighting — a large soft front-top box as key with gentle side fill, producing an even wraparound highlight and a soft contact shadow under the base.\n\n[CAMERA] Straight-on front view at figure eye level, 35mm equivalent, sharp throughout.\n\n[DO NOT] Do not use realistic human proportions. Do not give it a dusty matte texture. Do not render extra or fused fingers. Do not add text, a watermark, a brand logo, or background clutter.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "1:1",
+    "tags": [
+      "피규어",
+      "치비",
+      "SD캐릭터",
+      "비닐토이",
+      "파스텔"
+    ],
+    "mediaUrl": "/prompts/p_mscit3eb_4mc1tj.png",
+    "needsReferencePhoto": true,
+    "createdAt": "2026-08-03"
+  },
+  {
+    "id": "p_msci9wzl_9c8ycc",
+    "title": "박스 패키징 수집형 피규어",
+    "summary": "1/7 스케일 수집형 피규어 + 캐릭터 아트 인쇄 패키징 박스, 제작 과정 모니터가 보이는 데스크 컷",
+    "promptText": "[GOAL] The classic collectible-figure unboxing desk shot, starring the uploaded person as a 1/7 scale figure.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SUBJECT] A 1/7 scale commercial collectible figure standing on a round transparent acrylic base, proportions lightly stylized toward figure conventions while the face stays exactly the reference person.\n\n[PACKAGING] Directly behind it, an opened toy box with a die-cut window, printed with stylized character art of the same person, a fictional generic logo plate, and a blank barcode block. Lettering stays abstract and unreadable.\n\n[SET] A clean uncluttered desk. In the soft-focus background a computer monitor shows the digital sculpting workspace for this same figure — a gray untextured 3D bust rotating on screen.\n\n[LIGHT] Softbox key from the upper left, subtle fill from the right, gentle shadow falloff across the desk surface, warm color science with creamy highlight roll-off.\n\n[CAMERA] 85mm look at figure eye level, figure centered and tack sharp, packaging slightly soft, monitor well out of focus.\n\n[FINISH] PVC and ABS materials with a matte-to-satin finish, crisp paint separation lines, photoreal 4K product photography quality.\n\n[DO NOT] Do not print readable text or a real brand logo. Do not render extra, fused, or warped fingers. Do not let the sculpt go soft or low-poly. Do not distort the body proportions beyond normal figure stylization. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "피규어",
+      "박스패키징",
+      "수집형",
+      "인물기반",
+      "스튜디오조명"
+    ],
+    "mediaUrl": "/prompts/p_msci9wzl_9c8ycc.png",
+    "needsReferencePhoto": true,
+    "createdAt": "2026-08-03"
+  },
+  {
+    "id": "acrylic-standee-goods",
+    "title": "아크릴 스탠드 굿즈 변신",
+    "summary": "내 사진을 투명 아크릴 스탠드 굿즈 제품컷으로",
+    "promptText": "[GOAL] Turn the uploaded person into an acrylic standee goods item, photographed as a bright product shot.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SUBJECT] A flat die-cut acrylic standee. The person is illustrated inside in clean semi-realistic shading, standing in a relaxed three-quarter pose, with a 3mm fully transparent acrylic border tracing the outline. The panel slots into a small rounded transparent acrylic base with a visible bevel.\n\n[SELL THE MATERIAL] Make the transparency unmistakable: the desk surface is faintly visible through the clear border, a bright specular streak runs across the glossy face of the panel, and the cut edge catches a thin white highlight.\n\n[SET] On a light wood desk beside a closed pastel gift box and a few scattered holographic sticker sheets, a bright bedroom softly blurred behind.\n\n[LIGHT] Soft window daylight from the upper left, cool ambient fill, a small contact shadow beneath the base.\n\n[CAMERA] 50mm look from a slightly elevated three-quarter angle, macro product framing, shallow depth of field with the standee tack sharp.\n\n[DO NOT] Do not render it as opaque plastic. Do not omit the transparent border. Do not add readable text, a real brand logo, or a watermark. Do not render extra or fused fingers. Do not flatten the lighting.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "1:1",
+    "tags": [
+      "굿즈",
+      "아크릴스탠드",
+      "제품컷"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-08-02",
+    "mediaUrl": "/prompts/acrylic-standee-goods-1786163928420.png"
+  },
+  {
+    "id": "blind-box-designer-toy",
+    "title": "블라인드박스 디자이너 토이",
+    "summary": "내 사진을 치비 비닐 토이 + 블라인드박스 패키지 컷으로",
+    "promptText": "[GOAL] Turn the uploaded person into a chibi vinyl designer toy displayed with its blind-box packaging.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Carry their hairstyle, hair color, eye shape, eyebrow angle, skin tone and outfit colors into the toy so it reads as unmistakably them. Simplify the geometry, never the identity.\n\n[SUBJECT] A chibi-proportioned vinyl toy at roughly 1:2 head-to-body ratio, mixed matte body and glossy hair finish, faint paint seam lines, clothing sculpted as simplified volumes that match the reference outfit.\n\n[PACKAGING] The toy stands in front of its opened blind-box: a small square cardboard box with a die-cut window, printed in a muted pastel palette with abstract geometric shapes, a blank logo plate and a placeholder barcode block. Two unopened boxes stack behind, out of focus.\n\n[SET] A matte concrete surface, cool neutral background falling into soft blur.\n\n[LIGHT] Two-point studio setup — soft key from the upper right, cool fill from the left, a defined contact shadow anchoring the figure to the surface.\n\n[CAMERA] 85mm macro look at toy eye level, shallow depth of field, high material fidelity on the vinyl surface.\n\n[DO NOT] Do not use realistic human body proportions or real skin texture. Do not let the vinyl look melted or soft. Do not print readable text or a real brand logo. Do not render extra or fused fingers. Do not add a watermark or background clutter.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "피규어",
+      "블라인드박스",
+      "디자이너토이"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-08-01",
+    "mediaUrl": "/prompts/blind-box-designer-toy-1786163987350.png"
+  },
+  {
+    "id": "bw-dramatic-portrait",
+    "title": "흑백 드라마틱 인물",
+    "summary": "한쪽 얼굴만 빛이 드는 고대비 흑백 에디토리얼 초상",
+    "promptText": "[GOAL] A high-contrast black and white editorial portrait of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[LOOK] Monochrome with a full tonal range: true blacks that still hold a hint of structure, midtones carrying most of the information, highlights that roll off without clipping on the skin. Fine silver-halide grain consistent with pushed ISO 800 film.\n\n[LIGHT] A single hard key light at 45 degrees from camera left and slightly above, with no fill at all. One side of the face falls into shadow with a soft-edged terminator running down the cheek. A faint rim light traces the far shoulder to lift it off the background.\n\n[SET] Plain dark seamless backdrop. A simple dark top so nothing competes with the face.\n\n[EXPRESSION] Calm and still, direct gaze into the lens, mouth relaxed and closed. No performed smile.\n\n[CAMERA] 85mm at f/2, tight head-and-shoulders crop, focus locked on the near eye, natural skin texture with visible pores and fine lines left intact.\n\n[DO NOT] Do not output color or a sepia tint. Do not smooth, airbrush, or plasticize the skin. Do not remove moles or freckles. Do not blow out the highlights or crush the blacks into flat mud. Do not add an HDR glow, heavy sharpening, text, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "bw-portrait",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "흑백",
+      "인물",
+      "에디토리얼"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-31",
+    "mediaUrl": "/prompts/bw-dramatic-portrait-1786163632570.png"
+  },
+  {
+    "id": "bw-window-light-portrait",
+    "title": "흑백 창가 역광 인물",
+    "summary": "어두운 방 창가에서 빛 한 줄기만 얼굴에 닿는 로우키 흑백",
+    "promptText": "[GOAL] A quiet low-key monochrome portrait of the uploaded person beside a window.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCENE] The subject stands next to a tall window in an otherwise dark room, body turned three-quarters away, head tilted back toward the light, one hand resting lightly on the window frame.\n\n[LIGHT] Strong directional daylight through sheer curtains cuts a bright wedge across the forehead, cheek and shoulder while the rest of the body sinks into shadow. A visible shaft of light hangs in faint atmospheric haze. Even in the darkest areas, keep enough tonal information that fabric and hair texture remain readable.\n\n[LOOK] Monochrome, low key, rich blacks, a narrow band of highlight detail, natural film grain, a subtle vignette.\n\n[CAMERA] 35mm at f/2.8, waist-up framing with generous negative space on the dark side of the frame.\n\n[MOOD] Still, contemplative, unhurried — nobody is performing for the camera.\n\n[DO NOT] Do not output color. Do not light the face evenly or flatten the contrast. Do not crush the shadows into featureless black. Do not add HDR glow, digital noise, text, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "bw-portrait",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "흑백",
+      "로우키",
+      "창가"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-30",
+    "mediaUrl": "/prompts/bw-window-light-portrait-1786163831245.png"
+  },
+  {
+    "id": "instant-film-print",
+    "title": "폴라로이드 즉석사진",
+    "summary": "플래시 터진 즉석필름 인화물 그대로의 질감",
+    "promptText": "[GOAL] A physical instant-film print of the uploaded person, photographed as an object.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[FORMAT] The output shows one instant-film print lying flat on a neutral surface, photographed straight down under soft even light. Square image area, the classic wide white border along the bottom, slightly irregular print edges, a faint thumbprint smudge near one corner.\n\n[IMAGE LOOK] Instant-film color science — cool-leaning shadows, warm creamy highlights, noticeably lifted blacks, low micro-contrast, focus softening toward the corners, and one small patch of chemical blotching.\n\n[MOMENT] Inside the frame: a candid unposed indoor snapshot, the subject caught mid-laugh looking slightly off camera, everyday clothes, natural body language.\n\n[LIGHT] Direct on-camera flash fired close — bright forehead and nose bordering on overexposed, rapid falloff into the room, a hard short shadow thrown onto the wall behind.\n\n[SET] Plain painted wall with just a hint of a doorframe at the edge.\n\n[DO NOT] Do not render it with modern digital clarity or corner-to-corner sharpness. Do not use saturated HDR color. Do not smooth or beautify the skin. Do not write readable text on the white border. Do not render extra fingers or add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "film-polaroid",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "폴라로이드",
+      "즉석사진",
+      "필름"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-29",
+    "mediaUrl": "/prompts/instant-film-print-1786164426192.png"
+  },
+  {
+    "id": "90s-compact-film-snap",
+    "title": "90년대 필름카메라 스냅",
+    "summary": "골든아워 역광에 걸린 걷는 순간의 필름 스냅",
+    "promptText": "[GOAL] A candid golden-hour film snapshot of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[CAMERA] A 90s compact point-and-shoot on 35mm film: fixed 35mm lens at f/4, handheld with a slight unintentional tilt, autofocus that landed a touch behind the subject.\n\n[FILM] Consumer color negative stock — warm amber highlights, shadows leaning slightly green, gentle highlight roll-off, fine visible grain, mild halation blooming around the brightest areas, a soft corner vignette.\n\n[MOMENT] Late afternoon outdoors. The subject is walking away and glances back over one shoulder mid-step, hair lifted by the wind, caught off-center in the frame. Nothing about the pose looks arranged.\n\n[LIGHT] Low golden-hour sun behind them, throwing a warm rim along the hair and shoulder, with a soft flare washing into one corner of the frame.\n\n[FINISH] A thin white film-print border with a small orange date stamp in the lower right corner. Authentic analog texture with no digital sharpening anywhere.\n\n[DO NOT] Do not beautify or smooth the skin. Do not apply digital sharpening or HDR. Do not use clean studio lighting or a symmetrical posed composition. Do not make it look like a modern smartphone photo. Do not add readable text beyond the date stamp, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "film-polaroid",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "필름카메라",
+      "골든아워",
+      "스냅"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-28",
+    "mediaUrl": "/prompts/90s-compact-film-snap-example-female-20260909.png"
+  },
+  {
+    "id": "actor-profile-headshot",
+    "title": "배우 프로필 사진",
+    "summary": "캐스팅용 배우 프로필 톤의 정갈한 스튜디오 헤드샷",
+    "promptText": "[GOAL] A Korean-style actor profile headshot of the uploaded person for a casting portfolio.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SET] Clean light gray seamless backdrop with a soft gradient falling off behind the head.\n\n[LIGHT] A large softbox key at 45 degrees camera left, a white reflector on the right keeping the shadow side open, and a hair light from behind separating the head from the background. Clear catchlights in both eyes.\n\n[STYLING] A simple solid-color knit or shirt, minimal accessories, natural makeup, hair neat but not lacquered into place.\n\n[EXPRESSION] A relaxed confident half-smile with the eyes genuinely engaged, chin brought slightly forward and down.\n\n[CAMERA] 85mm at f/2.8, chest-up framing, focus locked on the eyes, skin rendered with real texture — pores, fine lines and natural tonal variation all retained.\n\n[DO NOT] Do not retouch heavily or airbrush the skin into plastic. Do not remove moles, freckles, or scars. Do not use a wide-angle lens that distorts the face. Do not introduce harsh shadows or a busy background. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "profile-headshot",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "프로필",
+      "배우",
+      "스튜디오"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-27",
+    "mediaUrl": "/prompts/actor-profile-headshot-example-female-20260909.png"
+  },
+  {
+    "id": "business-linkedin-headshot",
+    "title": "비즈니스 프로필 헤드샷",
+    "summary": "링크드인·회사 소개용 자연광 오피스 헤드샷",
+    "promptText": "[GOAL] A polished business profile headshot of the uploaded person for LinkedIn or a company team page.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SET] A modern office interior thrown well out of focus — soft window light, neutral gray-blue tones, nothing identifiable or distracting.\n\n[LIGHT] Soft window daylight as key from camera right, a gentle bounce fill from the left, and a subtle separation light catching the far shoulder.\n\n[STYLING] A smart-casual blazer or fine knit over a plain shirt, tidy grooming, a restrained natural color palette.\n\n[EXPRESSION] An approachable closed-mouth smile with direct eye contact, shoulders angled slightly away while the face turns back to the lens.\n\n[CAMERA] 85mm at f/2, head-and-shoulders crop with a small margin above the head, focus on the near eye, realistic skin texture retained.\n\n[DO NOT] Do not over-retouch into plastic skin. Do not change the person's apparent age. Do not use a cluttered or identifiable background. Do not fire a harsh direct flash or use a distorting wide angle. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "profile-headshot",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "1:1",
+    "tags": [
+      "프로필",
+      "비즈니스",
+      "링크드인"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-26",
+    "mediaUrl": "/prompts/business-linkedin-headshot-example-female-20260909.png"
+  },
+  {
+    "id": "16bit-pixel-sprite",
+    "title": "16비트 픽셀 게임 캐릭터",
+    "summary": "내 특징을 살린 도트 스프라이트 + 레트로 게임 화면",
+    "promptText": "[GOAL] Turn the uploaded person into a 16-bit era game character on a retro game screen.\n\n[IDENTITY — HIGHEST PRIORITY] Read the uploaded photo for the traits that survive pixelation: hair length, hair color, glasses, hat, facial hair, and the dominant colors of their outfit. Translate those into pixel form so the sprite is recognizable at a glance as this specific person rather than a generic avatar.\n\n[ART STYLE] Authentic 16-bit pixel art. A limited palette of about 32 colors, hard square pixel edges with zero anti-aliasing, chunky ordered dithering for gradients, and a dark outline around the character.\n\n[COMPOSITION] A full-body idle-pose sprite centered in frame, set against a simple side-scrolling stage: layered parallax hills receding in flattened tones, a few floating platforms, and scattered coin icons.\n\n[UI] A retro HUD strip across the top with pixel heart icons and a score counter of placeholder digits, drawn in the same pixel style and palette.\n\n[FINISH] Scaled up with nearest-neighbor so every individual pixel stays a crisp visible square. Vibrant saturated retro palette.\n\n[DO NOT] Do not anti-alias or blur the pixel edges. Do not render photorealistically or add 3D shading and smooth gradients. Do not use a high color count or modern vector styling. Do not distort the character proportions. Do not add readable text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "pixel-game",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "픽셀아트",
+      "레트로게임",
+      "도트"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-25",
+    "mediaUrl": "/prompts/16bit-pixel-sprite-example-female-20260909.png"
+  },
+  {
+    "id": "character-select-screen",
+    "title": "게임 캐릭터 셀렉트 화면",
+    "summary": "내가 로스터 캐릭터로 등장하는 격투게임 선택 화면",
+    "promptText": "[GOAL] A fighting-game character select screen with the uploaded person as the highlighted roster fighter.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[HERO RENDER] The left two-thirds holds a large semi-realistic painted portrait of the person in a dramatic three-quarter fighting stance, styled with subtle armor plating or streetwear detailing drawn from their reference outfit colors. They stand on a dark gradient stage with floating particle sparks drifting upward.\n\n[ROSTER GRID] The right third shows a grid of smaller locked character slots rendered as flat dark silhouettes behind question-mark placeholders.\n\n[UI] Angular sci-fi HUD frames, a glowing selection bracket surrounding the active portrait, and empty stat bars. Every piece of interface lettering stays as abstract unreadable glyphs.\n\n[LIGHT] A strong cyan key from the left and a magenta rim from the back right, deep contrast between them, volumetric haze filling the space behind.\n\n[FINISH] Crisp digital game-art rendering, vertical composition, high detail on the hero render and clean geometry on the UI.\n\n[DO NOT] Do not render any readable text or a real game logo. Do not go photorealistic — this is game art. Do not flatten the lighting or clutter the interface. Do not render extra or warped fingers. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "pixel-game",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "게임UI",
+      "캐릭터셀렉트",
+      "네온"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-24",
+    "mediaUrl": "/prompts/character-select-screen-example-female-20260909.png"
+  },
+  {
+    "id": "pet-hero-poster",
+    "title": "반려동물 영웅 포스터",
+    "summary": "망토 휘날리는 절벽 위 우리집 반려동물 시네마틱 포스터",
+    "promptText": "[GOAL] A cinematic hero poster starring the uploaded pet.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[SCENE] The pet stands on a rocky ledge at dusk, chest forward and gaze fixed on the horizon, a small weathered cape lifting behind it in the wind. Below and beyond, a wide valley and layered mountain ridges recede into haze, low clouds catching the last light. A few embers or dust motes drift through the air.\n\n[LIGHT] The low warm sun sits behind the animal, rimming every strand along its back and ears in gold, while cool skylight fills the shadow side just enough to keep the coat readable.\n\n[FINISH] Photoreal fur with individual strands resolved along the rim-lit edge, cinematic grade with teal shadows and amber highlights, shallow depth of field softening the far ridges, vertical poster composition with clear empty sky at the top for a title.\n\n[DO NOT] Do not swap in a different animal or alter the markings. Do not give it a human face or human expressions. Do not render it as a cartoon. Do not flatten the lighting or blur the fur into a mass. Do not add extra limbs, readable text, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do.",
+    "categorySlug": "pet",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "반려동물",
+      "포스터",
+      "시네마틱"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-23",
+    "mediaUrl": "/prompts/pet-hero-poster-example-female-20260909.png"
+  },
+  {
+    "id": "pet-studio-portrait",
+    "title": "반려동물 스튜디오 초상",
+    "summary": "사람 프로필처럼 찍은 격식 있는 반려동물 정면 초상",
+    "promptText": "[GOAL] A formal studio portrait of the uploaded pet, shot with the dignity of a human headshot.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[SET] A deep charcoal seamless backdrop with a soft gradient falloff behind the head.\n\n[LIGHT] A large softbox key from the upper left modeling gently across the muzzle, a subtle hair light from behind lifting the coat off the dark background, and a small reflector opening the shadow side.\n\n[POSE] Head-and-shoulders framing. The animal sits upright and looks just past the lens, ears alert but relaxed, no tension in the posture.\n\n[FINISH] Razor-sharp focus on the near eye with a clean catchlight, individual fur strands resolved across the face, natural wet texture on the nose, calm dignified mood.\n\n[DO NOT] Do not put the animal in a costume or add props. Do not render it as a cartoon or illustration. Do not clutter the background. Do not fire a harsh flash or introduce motion blur. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do.",
+    "categorySlug": "pet",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "1:1",
+    "tags": [
+      "반려동물",
+      "스튜디오",
+      "초상"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-22",
+    "mediaUrl": "/prompts/pet-studio-portrait-example-female-20260909.png"
+  },
+  {
+    "id": "landmark-travel-snap",
+    "title": "랜드마크 여행 스냅",
+    "summary": "이른 아침 광장에서 뒤돌아보는 자연스러운 여행 스냅",
+    "promptText": "[GOAL] A candid travel snapshot of the uploaded person in front of a landmark.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCENE] A wide plaza in front of a grand European stone landmark early in the morning. The subject is caught mid-turn, glancing back over one shoulder with a natural half-smile, wearing a light jacket and a small crossbody bag. A scattering of distant pedestrians, blurred, gives the space scale.\n\n[LIGHT] Low early morning side light rakes across the pavement in long soft shadows, warms the stone facade, and leaves the shadows cool by contrast.\n\n[CAMERA] 35mm at f/4, framed from head to knees, subject placed off-center on the left third with the architecture filling the upper two-thirds behind, a slight handheld tilt left in on purpose.\n\n[FINISH] Natural travel-photography color, mild film grain, realistic skin texture, no visible retouching.\n\n[DO NOT] Do not beautify the skin or stiffen the pose into a tourist-poster stance. Do not empty the plaza into something unreal. Do not oversaturate or apply HDR. Do not warp the architecture. Do not add readable signage text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "travel-city",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "여행",
+      "랜드마크",
+      "스냅"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-21",
+    "mediaUrl": "/prompts/landmark-travel-snap-example-female-20260909.png"
+  },
+  {
+    "id": "neon-night-street-portrait",
+    "title": "네온 도시 야경 인물",
+    "summary": "비 내린 골목 네온 조명 아래 시네마틱 야경 인물",
+    "promptText": "[GOAL] A cinematic night street portrait of the uploaded person under neon.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCENE] A dense city alley layered with neon signage. The subject stands under an awning, hands in jacket pockets, looking off toward the street rather than at the camera.\n\n[LIGHT] A magenta neon key from camera left and a cyan spill from the right, with a warm practical glow from a shop window behind. Wet asphalt smears the signs into vertical colored streaks. Even under saturated light, the skin must still read as skin — keep its texture and natural tonal variation.\n\n[ATMOSPHERE] Light drizzle catching in the neon beams, faint steam rising from a grate, shallow haze softening the deep background.\n\n[CAMERA] 50mm at f/1.8, waist-up framing, subject sharp with the neon dissolving into round bokeh behind, a slight handheld imperfection.\n\n[FINISH] Cinematic night grade, deep blacks that still hold shadow detail, restrained saturation so no channel clips.\n\n[DO NOT] Do not render the skin as plastic or wax. Do not light the scene like daylight. Do not blow the neon out into detail-free white. Do not clip the saturation. Do not add readable brand signage, text, extra fingers, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "travel-city",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "야경",
+      "네온",
+      "시네마틱"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-20",
+    "mediaUrl": "/prompts/neon-night-street-portrait-example-female-20260909.png"
+  },
+  {
+    "id": "hand-painted-anime-scene",
+    "title": "손그림 애니 배경 속 인물",
+    "summary": "수채 질감 배경의 초여름 시골길에 앉은 애니풍 캐릭터",
+    "promptText": "[GOAL] Place the uploaded person into a hand-painted 2D animation film scene.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this character is. Carry across their hairstyle, hair color, face shape, eye shape and any distinguishing features such as glasses, freckles or a hat. Stylize the rendering, never the identity — the character must read as this specific person drawn in animation, not a generic anime face.\n\n[ART STYLE] A hand-painted animation film look: gouache-like backgrounds with visible brush texture in the foliage and clouds, clean confident character linework, simple two-tone cel shading, a warm naturalistic palette.\n\n[SCENE] The character sits on a low stone wall along a countryside road in early summer, a woven bag set down beside them. Wind moves through tall grass; a single large tree anchors the middle distance; rolling green hills and layered cumulus clouds fill the sky.\n\n[LIGHT] Late afternoon sun from the right laying long warm light across the grass, dappled shade falling softly on the character, gentle atmospheric perspective fading the distant hills.\n\n[MOOD] Quiet, nostalgic, unhurried — a small pause in an ordinary day.\n\n[FINISH] Film-cel texture with subtle grain, vertical composition.\n\n[DO NOT] Do not render photorealistically or as 3D CG. Do not use harsh digital gradients or airbrushed shading. Do not default to a generic anime face that loses the likeness. Do not render extra or deformed fingers. Do not add text, a signature, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "anime-webtoon",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "애니메이션",
+      "손그림",
+      "배경일러스트"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-19",
+    "mediaUrl": "/prompts/hand-painted-anime-scene-example-female-20260909.png"
+  },
+  {
+    "id": "korean-webtoon-portrait",
+    "title": "웹툰 캐릭터 초상화",
+    "summary": "내 얼굴 특징을 살린 한국 웹툰 스타일 반신 일러스트",
+    "promptText": "[GOAL] Redraw the uploaded person as a modern Korean webtoon character portrait.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this character is. Preserve the exact face shape, eye shape and spacing, eyebrow angle, nose bridge, lip shape, hairstyle and hair color, plus distinguishing features such as glasses or moles. The result should be an obviously stylized drawing that anyone who knows this person would still identify instantly. If it drifts into a generic idol face, the image has failed.\n\n[ART STYLE] Modern Korean webtoon illustration: clean tapered line art with varied weight, soft two-tone cel shading driven by a single light source from the upper left, luminous eyes with a crisp catchlight and a subtle gradient iris, restrained blush across the cheeks and nose bridge, simplified but anatomically faithful nose and lips.\n\n[COMPOSITION] Half-body three-quarter pose with one hand lifted near the collar. The outfit is redrawn to match the reference photo's colors and silhouette.\n\n[BACKGROUND] A soft two-tone gradient with a faint circular glow behind the head and a few abstract light particles. No props, no scenery.\n\n[FINISH] Crisp vector-clean edges, line clarity high enough to hold up in print, vertical composition.\n\n[DO NOT] Do not render photorealistic skin pores or a 3D look. Do not make the eyes asymmetrical. Do not render extra or malformed fingers. Do not clutter the background. Do not add text, a signature, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "categorySlug": "anime-webtoon",
+    "modelSlug": "gpt-image",
+    "mediaType": "image",
+    "aspectRatio": "4:5",
+    "tags": [
+      "웹툰",
+      "캐릭터화",
+      "일러스트"
+    ],
+    "needsReferencePhoto": true,
+    "createdAt": "2026-07-18",
+    "mediaUrl": "/prompts/korean-webtoon-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "lego-minifigure-toy",
+    "title": "레고 미니피겨 변신",
+    "summary": "내 사진을 조립 블록 미니피겨 + 부품 패키지 컷으로",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "aspectRatio": "1:1",
+    "tags": [
+      "피규어",
+      "미니피겨",
+      "블록",
+      "토이피케이션"
+    ],
+    "promptText": "[GOAL] Turn the uploaded person into a plastic building-block minifigure, shot as a toy product photo.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Even reduced to a minifigure, carry over the traits that identify them: hairstyle silhouette and hair color, skin tone, glasses or facial hair, and the dominant colors and shapes of their outfit, printed onto the torso as flat graphics. Simplify the geometry, never the identity.\n\n[SUBJECT] A blocky minifigure with a cylindrical head, a simple printed face with dot eyes and a small smile, C-shaped claw hands, and a one-piece legged lower body. The hair is a separate molded piece that snaps on top.\n\n[MATERIAL] Injection-molded ABS plastic — smooth satin surface, crisp edges, faint mold seam lines along the sides, tiny sprue marks, slight color variance between separately molded parts.\n\n[SET] The figure stands on a flat studded base plate. Behind it, a few loose bricks and an accessory piece sit scattered, softly out of focus.\n\n[LIGHT] Even soft studio lighting from above with a gentle fill, producing a small clean contact shadow and soft specular highlights on the rounded plastic edges.\n\n[CAMERA] Macro product shot at figure eye level, 85mm equivalent, shallow depth of field with the figure tack sharp.\n\n[DO NOT] Do not render realistic human anatomy, hands, or skin texture. Do not add readable text or a real brand logo anywhere. Do not make the plastic look wet or rubbery. Do not clutter the background. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/lego-minifigure-toy-1786164057438.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "vinyl-bobblehead-toy",
+    "title": "빅헤드 비닐 토이",
+    "summary": "큰 머리 + 작은 몸의 수집형 비닐 토이 박스 컷",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "aspectRatio": "4:5",
+    "tags": [
+      "피규어",
+      "빅헤드",
+      "비닐토이",
+      "수집형"
+    ],
+    "promptText": "[GOAL] Turn the uploaded person into an oversized-head collectible vinyl figure displayed with its window box.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Keep their hairstyle and hair color, eyebrow shape, skin tone, glasses or facial hair, and outfit colors so the figure is instantly identifiable as them. The face is stylized down to simple shapes but the hairline, brow angle and any accessories must match the reference exactly.\n\n[SUBJECT] A collectible vinyl figure with a large squared-off head roughly the size of the entire body, small stubby limbs, a simplified body sculpted in the reference outfit, and large flat black oval eyes with no pupils.\n\n[MATERIAL] Matte vinyl with a slightly soft surface sheen, flat opaque paint application, faint parting lines, clean color separation with no bleed.\n\n[PACKAGING] Behind and slightly to the side, the figure's window box stands upright — a tall rectangular carton with a clear plastic window, printed in a bold two-color scheme with abstract shapes, a blank logo plate and a placeholder barcode block. All lettering stays abstract and unreadable.\n\n[LIGHT] Soft key from the upper left with a cool rim from the right, gentle contact shadow, clean neutral white balance.\n\n[CAMERA] 85mm at f/4, slightly above figure eye level, figure sharp and box falling gently out of focus.\n\n[DO NOT] Do not render realistic eyes, skin pores, or human proportions. Do not print readable text or a real brand logo. Do not render extra or fused fingers. Do not add a watermark or background clutter.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/vinyl-bobblehead-toy-1786164121492.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "claymation-stopmotion-figure",
+    "title": "클레이메이션 캐릭터",
+    "summary": "지문 자국까지 보이는 점토 스톱모션 캐릭터",
+    "categorySlug": "cat_msci2uhk_mmfci0",
+    "aspectRatio": "4:5",
+    "tags": [
+      "클레이",
+      "스톱모션",
+      "점토",
+      "핸드메이드"
+    ],
+    "promptText": "[GOAL] Turn the uploaded person into a handmade clay stop-motion character on a miniature set.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Sculpt their actual face shape, nose profile, brow angle, hairstyle and hair color into the clay, along with glasses or facial hair. The medium is crude and handmade, but the likeness must be deliberate and unmistakable.\n\n[SUBJECT] A clay puppet roughly 25cm tall, standing in a relaxed pose. The clothing is sculpted from separate colored clay pieces matching the reference outfit.\n\n[MATERIAL] Sell the handmade quality: visible fingerprint impressions across the surface, small tool marks around the eyes and mouth, uneven thickness where clay pieces join, a faint dust and lint speckle, and the slightly waxy sheen of modeling clay under warm light.\n\n[SET] A small practical miniature set — a textured painted backdrop, a few oversized handmade props, visible seams where the set pieces meet.\n\n[LIGHT] Warm practical tungsten key from the left with a soft blue fill from the right, the intimate contrasty lighting of a tabletop animation stage, gentle falloff into the corners.\n\n[CAMERA] 50mm at f/4 slightly below the puppet's eye level, shallow depth of field so the backdrop softens, subtle handmade imperfection in the framing.\n\n[DO NOT] Do not render it as smooth CGI or polished 3D. Do not remove the fingerprints and tool marks that make it read as clay. Do not add realistic human skin texture or hair strands. Do not add text, a real brand logo, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/claymation-stopmotion-figure-1786164200742.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "1920s-film-noir-portrait",
+    "title": "1920년대 필름누아르",
+    "summary": "블라인드 그림자가 얼굴에 걸린 흑백 누아르 초상",
+    "categorySlug": "film-polaroid",
+    "aspectRatio": "4:5",
+    "tags": [
+      "필름누아르",
+      "1920년대",
+      "흑백",
+      "빈티지"
+    ],
+    "promptText": "[GOAL] A 1920s film-noir studio portrait of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Period-appropriate wardrobe — a sharp wool suit or a bias-cut satin dress, hair set in tight finger waves or slicked flat, restrained period makeup with defined brows and a dark lip.\n\n[SCENE] A shadowed interior. Venetian blind slats throw hard horizontal bars of light across the face, chest and the wall behind. A thin haze of cigarette smoke drifts through the beams.\n\n[LIGHT] A single hard tungsten key from a low side angle with almost no fill, deep black shadows swallowing half the frame, a hot rim catching the jaw and shoulder.\n\n[LOOK] Orthochromatic black and white — skin rendered slightly pale, reds going dark, high contrast with dense blacks. Heavy silver grain, subtle emulsion scratches, a soft halo bloom around the brightest highlight.\n\n[CAMERA] Large-format look, 100mm equivalent, chest-up framing, focus on the near eye, slightly soft rendering typical of uncoated vintage glass.\n\n[DO NOT] Do not output color. Do not use modern clothing, hair, or makeup. Do not light the face evenly or fill in the shadows. Do not smooth the skin or apply digital sharpening. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/1920s-film-noir-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "1950s-kodachrome-portrait",
+    "title": "1950년대 코다크롬 컬러",
+    "summary": "선명한 레드와 크림톤의 1950년대 슬라이드 필름 감성",
+    "categorySlug": "film-polaroid",
+    "aspectRatio": "4:5",
+    "tags": [
+      "코다크롬",
+      "1950년대",
+      "빈티지컬러",
+      "슬라이드필름"
+    ],
+    "promptText": "[GOAL] A mid-1950s color slide-film portrait of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Period wardrobe — a cotton day dress with a full skirt, or a short-sleeve button shirt with high-waisted trousers. Hair set in soft period curls or a neat side part. Simple accessories, nothing modern.\n\n[SCENE] Outdoors on a bright clear afternoon, standing beside a pastel-painted wall or a period car fender, the background simple and uncluttered.\n\n[LOOK] Vintage reversal slide film color science: deeply saturated reds and warm yellows, restrained cyans, creamy skin rendering, dense blacks with very little shadow detail, and the slightly limited dynamic range that clips the brightest highlights. Extremely fine grain.\n\n[LIGHT] Hard midday sun as key, producing a crisp shadow under the nose and chin, with bright bounce from the pavement opening the shadow side.\n\n[CAMERA] 50mm at f/8, waist-up framing, everything sharp front to back, very slight color fringing at the frame edges.\n\n[FINISH] Include the honest artifacts of a scanned slide: a faint dust speck or two, a thin cardboard mount edge cropping one side, subtle overall warm cast.\n\n[DO NOT] Do not use modern clothing, hairstyles, or makeup. Do not apply HDR or lift the shadows. Do not desaturate into a muted vintage filter — this era was vivid. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/1950s-kodachrome-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "disposable-camera-flash",
+    "title": "일회용 카메라 플래시 샷",
+    "summary": "밤에 친구가 대충 찍어준 일회용 카메라 스냅",
+    "categorySlug": "film-polaroid",
+    "aspectRatio": "4:5",
+    "tags": [
+      "일회용카메라",
+      "플래시",
+      "파티",
+      "필름"
+    ],
+    "promptText": "[GOAL] A careless night snapshot of the uploaded person taken on a single-use film camera.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[MOMENT] Someone at the same table grabbed the camera and fired without composing. The subject is caught half-reacting — mid-sentence, or just starting to laugh — not posed and not centered. Part of another person's shoulder or arm crops into the frame edge.\n\n[LIGHT] A harsh direct flash from close range: the face and nearest surfaces are blown bright, everything two meters back falls into total darkness, and a hard black shadow is stamped onto the wall behind. Red-eye reflection is faintly visible.\n\n[LOOK] Cheap plastic-lens film rendering — soft corners, mild barrel distortion, heavy grain, muddy shifted color with a slight green-yellow cast, and blacks that never reach true black.\n\n[CAMERA] Fixed wide 32mm equivalent, fixed focus so the subject sits just slightly soft, handheld tilt of a few degrees.\n\n[FINISH] A thin white print border with an orange date stamp burned into the lower right corner. Occasional dust and a hair-thin scratch across the emulsion.\n\n[DO NOT] Do not compose the shot carefully or center the subject. Do not use soft flattering light. Do not clean up the grain, the color cast, or the blown highlights. Do not beautify the skin. Do not add readable text beyond the date stamp, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/disposable-camera-flash-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "y2k-camcorder-still",
+    "title": "Y2K 캠코더 정지화면",
+    "summary": "REC 표시와 타임스탬프가 박힌 90년대 캠코더 캡처",
+    "categorySlug": "y2k-camcorder",
+    "aspectRatio": "4:3",
+    "tags": [
+      "Y2K",
+      "캠코더",
+      "VHS",
+      "레트로"
+    ],
+    "promptText": "[GOAL] A paused frame from a late-90s handheld camcorder recording of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[FORMAT] 4:3 aspect ratio, low-resolution CCD sensor rendering — soft overall detail, limited dynamic range, and colors that smear slightly at high-contrast edges.\n\n[ON-SCREEN DISPLAY] Authentic camcorder overlay graphics burned into the image: a small red circle with REC in the upper left, a battery icon in the upper right, and a blocky digital timestamp reading a plausible date and time in the lower right. These are chunky low-resolution character graphics, not modern crisp UI.\n\n[IMAGE ARTIFACTS] Faint interlacing scan lines, chromatic bleeding around bright areas, tape noise speckle, slight vertical smear trailing off any light source, and a soft warm washed-out color balance with lifted crushed blacks.\n\n[MOMENT] Candid home-video framing — the subject caught mid-motion doing something ordinary, slightly off-center, the camera operator clearly not a professional.\n\n[LIGHT] Ordinary indoor light from a window or ceiling fixture, uneven and unflattering, with the camcorder's auto-exposure hunting slightly.\n\n[DO NOT] Do not render with modern 4K sharpness or clean digital color. Do not draw crisp modern UI icons or a smartphone interface. Do not stabilize the framing into a professional composition. Do not beautify the skin. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/y2k-camcorder-still-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "y2k-digicam-selfie",
+    "title": "Y2K 디지캠 셀카",
+    "summary": "2000년대 초 콤팩트 디카로 찍은 거울 셀카 감성",
+    "categorySlug": "y2k-camcorder",
+    "aspectRatio": "4:3",
+    "tags": [
+      "Y2K",
+      "디지캠",
+      "셀카",
+      "2000년대"
+    ],
+    "promptText": "[GOAL] An early-2000s compact digital camera selfie of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Y2K wardrobe cues — a low-rise silhouette, a baby tee or a slim zip-up, chunky plastic accessories, butterfly clips or thin flat-ironed strands framing the face, frosted or glossy lip.\n\n[MOMENT] A mirror selfie or an arm's-length shot in a bedroom, the camera itself partly visible and reflecting the flash back as a bright blob. The pose is slightly awkward and unposed.\n\n[IMAGE QUALITY] Early consumer CCD rendering: roughly 2 megapixels of real detail, visible JPEG compression blocking in flat areas, aggressive in-camera sharpening haloing the edges, limited dynamic range, and a slight purple fringe on high-contrast boundaries.\n\n[LIGHT] Harsh built-in flash overpowering the ambient light — bright forehead and nose, hard falloff into a dim room, a small hot reflection wherever the flash hits glass or shiny surfaces.\n\n[FINISH] A small yellow-orange timestamp burned into the lower right corner. Slightly cool overall white balance with a magenta lean in the shadows.\n\n[DO NOT] Do not render at modern smartphone quality or with clean noise-free color. Do not use soft flattering light. Do not smooth or beautify the skin. Do not use modern clothing or hairstyles. Do not add readable text beyond the timestamp, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/y2k-digicam-selfie-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "1970s-disco-night",
+    "title": "1970년대 디스코 나이트",
+    "summary": "미러볼 아래 플로어에 선 70년대 디스코 클럽 인물",
+    "categorySlug": "time-travel",
+    "aspectRatio": "4:5",
+    "tags": [
+      "시간여행",
+      "1970년대",
+      "디스코",
+      "레트로"
+    ],
+    "promptText": "[GOAL] Place the uploaded person inside a 1970s disco club.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Period wardrobe — a wide-lapel satin shirt open at the collar or a slinky wrap dress, flared trousers, platform shoes, gold jewelry. Hair feathered and voluminous, period-correct makeup with warm bronze tones.\n\n[SCENE] Standing on an illuminated dance floor, one hand raised mid-move, other dancers blurred around them. A mirror ball hangs overhead scattering points of light across the room, and the far wall glows with colored panel lighting.\n\n[LIGHT] Warm amber key from a low club fixture, magenta and cyan spill washing in from the sides, and hard specular dots from the mirror ball dancing across skin, hair and clothing. Deep shadows between the light sources.\n\n[LOOK] 1970s color film rendering — warm cast, slightly muddy blacks, visible grain, gentle halation blooming around every light source.\n\n[CAMERA] 35mm at f/2, waist-up framing with a slight upward tilt, subject sharp and the crowd dissolving into colored bokeh, a hint of motion blur on the raised hand.\n\n[DO NOT] Do not use modern clothing, hairstyles, or makeup. Do not use clean modern LED lighting or a digital look. Do not sharpen the image or remove the grain. Do not beautify the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/1970s-disco-night-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "victorian-rainy-street",
+    "title": "빅토리아 시대 빗속 거리",
+    "summary": "가스등 켜진 안개 낀 19세기 골목의 인물",
+    "categorySlug": "time-travel",
+    "aspectRatio": "4:5",
+    "tags": [
+      "시간여행",
+      "빅토리안",
+      "안개",
+      "시네마틱"
+    ],
+    "promptText": "[GOAL] Place the uploaded person on a rain-soaked Victorian street at night.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Late-19th-century wardrobe — a long wool overcoat with a high collar, or a fitted structured jacket over a full skirt. Leather gloves, a hat appropriate to the era, hair pinned up or neatly parted. Everything looks worn and lived in, not costume-fresh.\n\n[SCENE] A narrow cobbled street slick with rain. Gas lamps glow at intervals down the block, their light dissolving into thick fog. Wet stone reflects the lamps into long smeared streaks. Dark building facades lean in on both sides.\n\n[LIGHT] A single gas lamp just off frame provides a warm flickering key from the side, cold blue moonlight fills the shadows, and the fog scatters both into visible volumetric shafts.\n\n[ATMOSPHERE] Fine rain drifting through the lamp light, breath faintly visible in the cold air, water beading on the wool coat.\n\n[CAMERA] 40mm at f/2, three-quarter body framing, subject sharp with the street receding into fog, slight handheld feel.\n\n[LOOK] Cinematic period grade — desaturated overall with the lamp warmth carrying the only real color, deep blacks holding detail, fine film grain.\n\n[DO NOT] Do not include any modern object, vehicle, signage, or clothing detail. Do not light the scene brightly or evenly. Do not render the fog as a flat gray wash. Do not beautify the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/victorian-rainy-street-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "cyberpunk-2090-street",
+    "title": "2090 사이버펑크 도시",
+    "summary": "홀로그램 광고가 떠 있는 미래 도시의 인물",
+    "categorySlug": "time-travel",
+    "aspectRatio": "4:5",
+    "tags": [
+      "시간여행",
+      "사이버펑크",
+      "미래",
+      "네온"
+    ],
+    "promptText": "[GOAL] Place the uploaded person on a street in a dense 2090s cyberpunk megacity.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Near-future streetwear — a technical jacket with sealed seams and subtle integrated light piping, layered utility straps, a translucent panel or two. Understated rather than costume-like, with the reference outfit's colors carried through.\n\n[SCENE] A crowded elevated walkway between towers. Volumetric holographic advertisements hang in the air at multiple depths, their light passing through drifting steam. Cables and conduit run overhead. Pedestrians blur past on both sides.\n\n[LIGHT] Cyan key from a holographic panel on the left, deep magenta rim from a sign behind and to the right, warm amber spill from a street-level vendor below throwing light up under the chin. Every source is practical and visible in frame.\n\n[ATMOSPHERE] Steam venting from grates, fine mist catching the beams, wet composite flooring reflecting the ad panels into vertical smears.\n\n[CAMERA] 35mm at f/1.8, waist-up framing, subject sharp with the crowd and signage collapsing into layered bokeh.\n\n[FINISH] Cinematic grade with rich blacks that retain detail, restrained saturation so no color channel clips, and skin that still reads as skin under heavy colored light.\n\n[DO NOT] Do not render the skin as plastic or chrome. Do not blow the neon out into flat white. Do not include readable text or real brand logos on the advertisements. Do not clip the saturation. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/cyberpunk-2090-street-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "blockbuster-action-poster",
+    "title": "블록버스터 액션 영화 포스터",
+    "summary": "내가 주연인 여름 블록버스터 포스터 키아트",
+    "categorySlug": "movie-poster",
+    "aspectRatio": "3:4",
+    "tags": [
+      "영화포스터",
+      "액션",
+      "키아트",
+      "블록버스터"
+    ],
+    "promptText": "[GOAL] A summer blockbuster action movie poster starring the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[COMPOSITION] The person occupies the center, shot from a low hero angle from the chest up, turned three-quarters with the head squared to camera. Behind them, a collapsing cityscape recedes into smoke and orange firelight. Debris and embers drift through the frame. The lower third stays deliberately dark and uncluttered as a title area, with an empty band at the very bottom for a billing block.\n\n[STYLING] A practical tactical jacket, scuffed and torn at one shoulder, dust and a thin cut across one cheekbone. Nothing pristine.\n\n[LIGHT] Hot orange backlight from the fires behind rimming the shoulders and hair, cold steel-blue key from the front left carving the face, heavy contrast between the two.\n\n[LOOK] The teal-and-orange grade of modern action key art, high contrast, crushed but detailed blacks, a fine layer of atmospheric haze, subtle lens flare streaking across the upper frame.\n\n[CAMERA] 50mm at f/4 from slightly below eye level, subject sharp and the destruction behind falling into soft focus.\n\n[DO NOT] Do not render any readable text, title, tagline, or studio logo — leave those areas empty. Do not use a real actor's likeness or a real film's branding. Do not flatten the lighting. Do not beautify away the dust and damage. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/blockbuster-action-poster-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "indie-drama-poster",
+    "title": "인디 드라마 영화 포스터",
+    "summary": "여백 많은 미니멀 인디 영화 포스터 스타일",
+    "categorySlug": "movie-poster",
+    "aspectRatio": "3:4",
+    "tags": [
+      "영화포스터",
+      "인디",
+      "미니멀",
+      "감성"
+    ],
+    "promptText": "[GOAL] A minimalist independent drama movie poster featuring the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[COMPOSITION] The person sits small in the lower third of the frame, seen from behind and slightly to the side, head turned just enough to catch a sliver of profile. The upper two-thirds is almost entirely empty — a vast pale sky or a blank wall — reserved as title space. The subject is placed off-center on the left third.\n\n[SCENE] A quiet unremarkable location: an empty parking lot at dawn, a bus stop bench, the edge of a field. Nothing dramatic happens.\n\n[STYLING] Ordinary everyday clothing, slightly rumpled, colors muted and desaturated.\n\n[LIGHT] Flat overcast daylight with no visible sun, soft and directionless, the kind of light that makes everything feel a little unresolved.\n\n[LOOK] Muted film grade with lifted blacks and low saturation, fine grain, a soft haze washing the upper frame. Restrained and quiet throughout.\n\n[CAMERA] 85mm at f/5.6 from a distance, compressed perspective, the subject small in the frame and the whole scene evenly sharp.\n\n[DO NOT] Do not render any readable text, title, or festival laurels — leave those areas empty. Do not add drama through lighting or color. Do not fill the empty space with objects. Do not beautify or stylize the clothing. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/indie-drama-poster-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "travel-scrapbook-page",
+    "title": "여행 스크랩북 페이지",
+    "summary": "사진·티켓·손글씨 메모가 붙은 일기장 콜라주",
+    "categorySlug": "scrapbook",
+    "aspectRatio": "4:5",
+    "tags": [
+      "스크랩북",
+      "콜라주",
+      "저널",
+      "여행"
+    ],
+    "promptText": "[GOAL] A travel scrapbook spread built around photos of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[LAYOUT] An open journal page shot straight down. Three or four photos of the same person from a trip are taped down at slight angles — one large anchor photo, two smaller ones, one partly tucked under another. Around them: a torn ticket stub, a pressed flower, a strip of washi tape, a small map fragment, and a coffee ring stain in one corner.\n\n[PAPER] Aged cream paper with visible fiber texture, a soft crease down the binding, one dog-eared corner, and faint show-through from writing on the previous page.\n\n[HANDWRITING] Loose handwritten script fills the gaps between photos. Render it as convincing cursive strokes that read as handwriting from a distance but stay abstract and unreadable up close.\n\n[PHOTOS] The taped-in photos have thin white borders and a mild faded film cast, slightly different color temperatures from each other as if printed at different times.\n\n[LIGHT] Soft window daylight from the upper left, gentle shadows under the lifted paper edges and taped corners, warm and natural.\n\n[CAMERA] Straight-down flat-lay, 50mm equivalent, deep focus so the whole page is legible, the page filling the frame with a little surface visible at the edges.\n\n[DO NOT] Do not render readable words anywhere. Do not lay the elements out in a neat grid — it should look assembled by hand over time. Do not make the paper look clean and new. Do not add a real brand logo or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/travel-scrapbook-page-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "speed-blur-action-shot",
+    "title": "스피드 블러 액션 샷",
+    "summary": "배경만 흐르고 인물은 선명한 패닝 액션 컷",
+    "categorySlug": "motion-dynamic",
+    "aspectRatio": "4:5",
+    "tags": [
+      "모션",
+      "패닝",
+      "액션",
+      "스포츠"
+    ],
+    "promptText": "[GOAL] A panning action shot of the uploaded person where the world streaks past and they stay sharp.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[MOTION] The subject moves fast across the frame — running, or riding — and the camera tracks them. The face and torso hold sharp focus while the entire background smears into horizontal streaks. The trailing arm and the feet blur from their own faster movement. Dust, water droplets or leaves kick up behind and trail into comet streaks.\n\n[SCENE] An urban street or an open track, the specific location unreadable because it has been reduced to bands of color by the motion.\n\n[LIGHT] Hard low sun from behind and to the side, throwing a strong rim along the shoulders and hair, with enough bounce from the ground to keep the face readable. Small specular flares wherever the light catches sweat or fabric.\n\n[CAMERA] 70mm at f/4, shutter around 1/30 second, panned with the subject. Slight handheld imprecision so the sharpness sits on the face rather than dead-perfect across the body.\n\n[FINISH] High-contrast sports-photography grade, punchy but not oversaturated, fine grain, deep blacks.\n\n[DO NOT] Do not blur the face or let the eyes go soft. Do not render a static sharp background — the streaking is the whole point. Do not add fake cartoon speed lines. Do not beautify the skin or remove the sweat. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/speed-blur-action-shot-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "sns-pfp-portrait",
+    "title": "SNS 프로필 PFP",
+    "summary": "원형 프레임에 딱 맞는 강렬한 SNS 프로필 이미지",
+    "categorySlug": "profile-headshot",
+    "aspectRatio": "1:1",
+    "tags": [
+      "PFP",
+      "프로필",
+      "SNS",
+      "아바타"
+    ],
+    "promptText": "[GOAL] A striking social media profile picture of the uploaded person, built to survive being cropped into a small circle.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[COMPOSITION] Head and upper shoulders only, centered, with the face occupying the middle 60 percent of the frame so nothing important is lost when cropped to a circle. Head turned slightly, eyes locked on the lens.\n\n[BACKGROUND] A single bold flat color or a smooth two-tone gradient chosen to contrast with the hair and skin tone. No objects, no scenery, no texture.\n\n[LIGHT] A large soft key from the front left with a colored rim light from the back right tracing the jaw and hair edge, separating the head cleanly from the background at every point around the silhouette.\n\n[EXPRESSION] Confident and settled — a slight lift at the corner of the mouth, chin level, shoulders relaxed and squared.\n\n[FINISH] Crisp modern digital portrait rendering, natural skin texture retained, high micro-contrast on the eyes and lips so the image still reads at 40 pixels wide.\n\n[DO NOT] Do not crop any part of the head or hair. Do not place anything important near the frame corners. Do not add a busy background, text, or a watermark. Do not over-retouch the skin into plastic.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/sns-pfp-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "hyperreal-casual-selfie",
+    "title": "하이퍼리얼 일상 셀카",
+    "summary": "AI 같지 않게 대충 찍은 듯한 리얼 셀카",
+    "categorySlug": "profile-headshot",
+    "aspectRatio": "4:5",
+    "tags": [
+      "셀카",
+      "하이퍼리얼",
+      "일상",
+      "자연스러움"
+    ],
+    "promptText": "[GOAL] A casual smartphone selfie of the uploaded person that reads as a real photo, not an AI render.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[THE POINT] This must look like an ordinary photo someone took of themselves without thinking about it. Every choice below exists to defeat the polished AI look.\n\n[IMPERFECTIONS TO INCLUDE] Uneven skin tone with visible pores, a small blemish or two, faint under-eye shadow, slightly chapped lips, a few flyaway hairs out of place, one eye marginally more open than the other, and a natural asymmetry to the smile.\n\n[FRAMING] Arm's-length front camera, held slightly off-level so the horizon tilts a few degrees. The face sits off-center and a little too close to one edge. Part of the raised arm or shoulder intrudes at the frame border.\n\n[LIGHT] Ordinary mixed indoor light — a window on one side and a warm ceiling bulb on the other, so the color temperature splits across the face. Slightly underexposed with the shadows a touch noisy.\n\n[CAMERA] Front-facing phone lens, mild wide-angle distortion pushing the nose slightly forward, moderate digital noise in the darker areas, a hint of motion softness in the hair.\n\n[SETTING] A mundane real place — a bedroom corner with a rumpled duvet edge visible, a car seat, a hallway. Nothing styled.\n\n[DO NOT] Do not smooth or beautify the skin. Do not use a beauty filter or an even studio light. Do not center the subject perfectly or level the horizon. Do not render it crisply noise-free. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/hyperreal-casual-selfie-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "hanbok-studio-portrait",
+    "title": "한복 스튜디오 화보",
+    "summary": "전통 한복을 입고 찍은 정갈한 스튜디오 인물 화보",
+    "categorySlug": "hanbok-traditional",
+    "aspectRatio": "4:5",
+    "tags": [
+      "한복",
+      "전통",
+      "스튜디오",
+      "화보"
+    ],
+    "promptText": "[GOAL] A refined studio portrait of the uploaded person wearing traditional Korean hanbok.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[WARDROBE] A traditional hanbok rendered with real garment knowledge: a jeogori with a clean curved sleeve line, a contrasting goreum ribbon tied at the chest and falling naturally, and a full chima or baji falling in soft heavy folds. Fabric is silk with a subtle sheen and a woven texture visible up close. Colors are drawn from a traditional palette — indigo, celadon, persimmon, ivory — with the collar trim in a contrasting tone.\n\n[POSE] Standing three-quarters to the camera with the hands folded low and relaxed, spine long, chin level. Composed and unhurried rather than stiff.\n\n[SET] A plain hanji-toned backdrop with a very soft gradient, or a simple traditional wooden lattice screen thrown well out of focus.\n\n[LIGHT] A large soft key from the upper left shaping the face and catching the silk sheen along the sleeve, a subtle fill on the shadow side, and a gentle hair light separating the head from the backdrop.\n\n[CAMERA] 85mm at f/2.8, three-quarter body framing, focus on the near eye, natural skin texture retained, fabric detail crisp.\n\n[DO NOT] Do not invent a fantasy or costume-shop version of the garment — the construction must be believable. Do not mix in Chinese or Japanese traditional dress elements. Do not over-retouch the skin. Do not clutter the background or add props. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/hanbok-studio-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "polaroid-hug-couple",
+    "title": "폴라로이드 허그 커플",
+    "summary": "뒤에서 안은 자세의 흑백 직광 폴라로이드 커플 사진",
+    "categorySlug": "couple-friends",
+    "aspectRatio": "1:1",
+    "tags": [
+      "커플",
+      "폴라로이드",
+      "흑백",
+      "허그"
+    ],
+    "promptText": "[GOAL] A black and white instant-film photo of the uploaded couple in a back-hug pose.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photos are the only source of truth for who these two people are. Reproduce each person's exact face shape, eye shape and spacing, nose, lip shape, jawline, skin tone and hairstyle, along with glasses or distinguishing marks. Keep the two faces clearly distinct from each other — do not average them toward a shared look, do not swap their features, and do not beautify either one. If either person would not be recognized instantly, the image has failed.\n\n[POSE] One person stands behind the other, arms wrapped around their partner's waist, chin resting near the shoulder. The person in front leans back slightly into the embrace, both looking toward the camera. The pose reads as comfortable and unstaged, not a posed studio arrangement.\n\n[FORMAT] A physical instant-film print with a square image area and the classic wide white border along the bottom, edges slightly uneven, one corner faintly bent.\n\n[LOOK] High-contrast black and white instant film — blown highlights where the flash lands, deep shadows falling off fast behind them, lifted blacks, heavy grain, soft corner focus.\n\n[LIGHT] Direct on-camera flash fired close. Bright faces and forearms, a hard shadow stamped on the wall behind, everything beyond two meters swallowed by darkness.\n\n[SET] A plain indoor wall, no props or scenery.\n\n[CAMERA] Fixed wide lens, waist-up framing, slight handheld tilt.\n\n[DO NOT] Do not merge the two faces or make them resemble each other. Do not output color. Do not use soft flattering light or smooth the skin. Do not write readable text on the white border. Do not render extra fingers or add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/polaroid-hug-couple-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "lockscreen-couple-dusk",
+    "title": "잠금화면 커플 컷",
+    "summary": "상단에 시계 자리를 비운 시네마틱 노을 커플 사진",
+    "categorySlug": "couple-friends",
+    "aspectRatio": "9:16",
+    "tags": [
+      "커플",
+      "잠금화면",
+      "노을",
+      "시네마틱"
+    ],
+    "promptText": "[GOAL] A cinematic dusk photo of the uploaded couple, composed to sit behind a phone lock screen.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photos are the only source of truth for who these two people are. Reproduce each person's exact face shape, eye shape and spacing, nose, lip shape, jawline, skin tone and hairstyle, along with glasses or distinguishing marks. Keep the two faces clearly distinct from each other — do not average them toward a shared look, do not swap their features, and do not beautify either one. If either person would not be recognized instantly, the image has failed.\n\n[COMPOSITION] Vertical frame. The couple sits in the lower two-thirds, seen from behind and slightly to the side, heads leaning together as they look out toward the horizon. The entire upper third is deliberately clean, empty sky — reserved as space for a clock overlay. Nothing crosses into that area.\n\n[SCENE] The edge of a rooftop or a quiet hillside at last light, the city or coastline reduced to a soft glowing band far below.\n\n[LIGHT] The sun already gone, leaving a gradient of deep indigo overhead into warm amber at the horizon. The couple reads as near-silhouettes with just enough rim light along their shoulders and hair to separate them from the sky.\n\n[LOOK] Cinematic grade with rich blacks, restrained saturation, fine grain, and a soft atmospheric haze over the distant lights.\n\n[CAMERA] 50mm at f/2, shot from behind at their eye level, subjects sharp with the distant lights dissolving into gentle bokeh.\n\n[DO NOT] Do not merge the two people into similar-looking figures. Do not place anything in the upper third. Do not add readable text, a clock, or UI elements — leave that space empty. Do not overexpose the sky or clip the saturation. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/lockscreen-couple-dusk-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "couple-figurine-box",
+    "title": "커플 피규어 세트",
+    "summary": "둘이 한 박스에 담긴 커플 수집형 피규어",
+    "categorySlug": "couple-friends",
+    "aspectRatio": "1:1",
+    "tags": [
+      "커플",
+      "피규어",
+      "토이피케이션",
+      "세트"
+    ],
+    "promptText": "[GOAL] Turn the uploaded couple into a two-figure collectible toy set displayed in one box.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photos are the only source of truth for who these two people are. Reproduce each person's exact face shape, eye shape and spacing, nose, lip shape, jawline, skin tone and hairstyle, along with glasses or distinguishing marks. Keep the two faces clearly distinct from each other — do not average them toward a shared look, do not swap their features, and do not beautify either one. If either person would not be recognized instantly, the image has failed.\n\n[SUBJECT] Two stylized collectible figures at roughly 1/7 scale, standing side by side on a shared oval base, one turned slightly toward the other. Each figure's sculpted clothing matches that person's outfit in their reference photo.\n\n[MATERIAL] Painted PVC — satin skin, glossy hair highlights and eyes, faint mold seam lines, crisp paint separation with no bleed.\n\n[PACKAGING] The pair sits inside an opened window box behind them, printed with a stylized illustration of the same two people, a blank logo plate and a placeholder barcode block. All lettering stays abstract and unreadable.\n\n[SET] A clean neutral tabletop, background falling softly out of focus.\n\n[LIGHT] Softbox key from the upper left, cool fill from the right, a defined contact shadow anchoring the base.\n\n[CAMERA] 85mm macro at figure eye level, both figures tack sharp, packaging slightly soft behind.\n\n[DO NOT] Do not make the two figures look like the same person. Do not print readable text or a real brand logo. Do not render extra or fused fingers. Do not add a watermark or background clutter.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/couple-figurine-box-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "friends-jump-shot",
+    "title": "친구들 점프샷",
+    "summary": "다 같이 공중에 뜬 순간을 얼려버린 우정샷",
+    "categorySlug": "couple-friends",
+    "aspectRatio": "4:5",
+    "tags": [
+      "우정",
+      "점프샷",
+      "단체",
+      "역동"
+    ],
+    "promptText": "[GOAL] A frozen mid-air jump shot of the uploaded people together.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photos are the only source of truth for who these two people are. Reproduce each person's exact face shape, eye shape and spacing, nose, lip shape, jawline, skin tone and hairstyle, along with glasses or distinguishing marks. Keep the two faces clearly distinct from each other — do not average them toward a shared look, do not swap their features, and do not beautify either one. If either person would not be recognized instantly, the image has failed.\n\n[MOMENT] Everyone is airborne at the same instant, each at a slightly different height with a different arm position — one fully extended, one mid-clap, one caught mid-laugh with eyes half closed. Hair lifts away from every head. Jackets and shirt hems ride up. Nothing is symmetrical or coordinated.\n\n[SET] An open outdoor space with a low horizon — a beach, a wide field, a rooftop — so the sky carries the upper half of the frame.\n\n[LIGHT] Bright late-afternoon backlight throwing warm rims along shoulders and hair, with strong bounce off the ground keeping the faces readable. Small sun flare licking in from one corner.\n\n[CAMERA] 24mm at f/5.6 from slightly below, shot at 1/1000 second so every figure is frozen sharp, taken from far enough back that all subjects fit with air above their heads.\n\n[FINISH] Punchy natural color, high micro-contrast, fine grain, deep but detailed shadows.\n\n[DO NOT] Do not make the people resemble each other. Do not blur the faces or let anyone go soft. Do not arrange them into a neat symmetrical line. Do not beautify the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/friends-jump-shot-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "streetwear-lookbook",
+    "title": "스트릿 패션 룩북",
+    "summary": "도심 벽 앞에서 찍은 시크한 스트릿웨어 룩북 컷",
+    "categorySlug": "fashion-lookbook",
+    "aspectRatio": "4:5",
+    "tags": [
+      "패션",
+      "룩북",
+      "스트릿웨어",
+      "화보"
+    ],
+    "promptText": "[GOAL] A streetwear lookbook shot of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Layered contemporary streetwear — an oversized outer layer over a fitted base, wide-leg trousers breaking over chunky sneakers, one restrained accessory. The palette stays tight: two neutrals plus a single accent color pulled from the reference outfit.\n\n[POSE] Standing squared to the camera with the weight shifted onto one leg, hands loose or one tucked into a pocket, chin level, expression neutral and unbothered. No smiling, no dynamic action.\n\n[SET] A flat concrete or painted wall with a subtle texture, shot from a distance that leaves the location unreadable. A single strong architectural line runs through the frame.\n\n[LIGHT] Overcast daylight, soft and directionless, so the garment shapes and fabric textures read cleanly without harsh shadows.\n\n[CAMERA] 50mm at f/4, full body with a little headroom, shot from waist height so the proportions stay true, everything evenly sharp so the clothing detail holds.\n\n[FINISH] Editorial fashion grade — slightly desaturated, cool-leaning neutrals, fabric weave and stitching clearly resolved.\n\n[DO NOT] Do not use dramatic lighting or a cluttered background. Do not add readable text, a real brand logo, or visible garment branding. Do not beautify the skin or slim the body. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/streetwear-lookbook-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "runway-editorial-shot",
+    "title": "런웨이 에디토리얼",
+    "summary": "워킹 중 포착된 하이패션 런웨이 컷",
+    "categorySlug": "fashion-lookbook",
+    "aspectRatio": "4:5",
+    "tags": [
+      "패션",
+      "런웨이",
+      "하이패션",
+      "에디토리얼"
+    ],
+    "promptText": "[GOAL] A high-fashion runway shot of the uploaded person mid-walk.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] A dramatic sculptural garment with an exaggerated silhouette — a strong shoulder, an oversized volume, or a long trailing hem — in a single saturated color or a stark monochrome. Severe minimal styling, hair pulled back tight, sharp editorial makeup.\n\n[MOMENT] Caught mid-stride with one foot planted and the other lifting, fabric still swinging from the previous step, gaze fixed straight past the lens. Expression flat and unsmiling.\n\n[SET] A long runway receding into darkness, the front row reduced to indistinct dark shapes on either side, a strip of light along the floor.\n\n[LIGHT] Hard overhead runway lighting creating a sharp pool around the model and deep falloff on either side, with a few flash bursts blooming from the photographer pit as small hot points in the background.\n\n[CAMERA] 135mm at f/2.8 from the end of the runway, compressed perspective, full body with the garment fully in frame, shot at high shutter so the fabric motion is frozen crisply.\n\n[FINISH] High-contrast editorial grade, deep blacks, the garment color rendered accurately and saturated.\n\n[DO NOT] Do not add readable text, a designer name, or a real brand logo. Do not use soft flattering beauty lighting. Do not smile. Do not distort the body proportions or beautify the skin. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/runway-editorial-shot-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "minimal-beauty-closeup",
+    "title": "미니멀 뷰티 클로즈업",
+    "summary": "피부 질감이 그대로 살아있는 뷰티 광고식 클로즈업",
+    "categorySlug": "fashion-lookbook",
+    "aspectRatio": "1:1",
+    "tags": [
+      "뷰티",
+      "클로즈업",
+      "광고",
+      "미니멀"
+    ],
+    "promptText": "[GOAL] A beauty-campaign close-up of the uploaded person's face.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[FRAMING] Extremely tight — the face fills the frame, cropped just above the eyebrows and just below the lower lip. Head perfectly straight to camera, eyes locked on the lens.\n\n[STYLING] Bare, dewy skin with a natural sheen along the cheekbone and nose bridge. Brows groomed but not drawn in. A single deliberate accent — a glossy lip, or a graphic liner — and nothing else.\n\n[SKIN] Render the skin honestly at this magnification: visible pores across the nose and cheeks, fine vellus hair catching the light along the jaw, natural tonal variation, a faint texture on the lips. The polish comes from the lighting, never from erasing the skin.\n\n[LIGHT] A large soft source directly in front and slightly above, producing a ring-shaped catchlight in both eyes, an even wraparound falloff, and a soft shadow under the nose and lower lip.\n\n[SET] A seamless background in a single desaturated tone chosen to complement the skin.\n\n[CAMERA] 100mm macro at f/5.6, focus plane across both eyes, extremely high detail.\n\n[DO NOT] Do not smooth, airbrush, or plasticize the skin. Do not remove pores, moles, freckles, or fine lines. Do not narrow the nose or reshape the face. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/minimal-beauty-closeup-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "kpop-concept-photo",
+    "title": "K-POP 컨셉 포토",
+    "summary": "앨범 속지에 들어갈 법한 컬러 세트 컨셉 포토",
+    "categorySlug": "album-concept",
+    "aspectRatio": "4:5",
+    "tags": [
+      "컨셉포토",
+      "K-POP",
+      "앨범",
+      "화보"
+    ],
+    "promptText": "[GOAL] A K-pop album concept photo of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SET] A built studio set painted end to end in a single saturated color — the walls, floor and a few oversized geometric props all in the same tone, so the whole frame reads as one color field. A single contrasting object anchors the composition.\n\n[STYLING] A styled outfit with visible construction detail — layered textures, metal hardware, a statement collar or sleeve — in colors that either match the set exactly or sit directly opposite it. Hair styled with clear intent, dewy skin, subtle glitter along the inner eye.\n\n[POSE] Seated on or leaning against the prop, one hand raised near the face or collar, body angled away while the eyes come back to the lens. Composed and still, holding a single clean line.\n\n[LIGHT] A large soft key from the front left plus a colored accent light from the right that tints the shadow side, keeping the whole image inside a two-color scheme. Clean catchlights, no harsh shadows.\n\n[CAMERA] 85mm at f/2.8, three-quarter body framing, subject sharp with the set falling gently soft behind.\n\n[FINISH] Glossy commercial retouch quality on the lighting and color, with the skin texture itself left intact.\n\n[DO NOT] Do not add readable text, a group name, or a logo. Do not use a real idol's likeness. Do not over-retouch the skin into plastic. Do not clutter the set with unrelated props. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/kpop-concept-photo-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "indie-album-cover",
+    "title": "인디 앨범 커버",
+    "summary": "필름 질감의 쓸쓸한 인디 음반 커버 사진",
+    "categorySlug": "album-concept",
+    "aspectRatio": "1:1",
+    "tags": [
+      "앨범커버",
+      "인디",
+      "필름",
+      "감성"
+    ],
+    "promptText": "[GOAL] An indie album cover photograph featuring the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[COMPOSITION] Square frame. The person sits small and off-center, occupying maybe a quarter of the image, with the rest given over to empty environment. They are turned away or looking down, face partly obscured — present but not performing.\n\n[SCENE] An ordinary in-between place: a parked car at night, an empty stairwell, a bedroom with the lights off and a window glowing. Something mundane that reads as lonely without announcing it.\n\n[LIGHT] A single weak practical source — a streetlamp through glass, a lamp just out of frame, a television — leaving most of the image in shadow. The face catches only a partial edge of light.\n\n[LOOK] Grainy color film pushed a stop or two: lifted milky blacks, muted desaturated color with a slight color cast, soft focus falloff, visible halation around the light source.\n\n[CAMERA] 35mm at f/2, handheld, focus slightly imprecise so the sharpest point sits somewhere other than dead center.\n\n[DO NOT] Do not add readable text, an artist name, or a title. Do not light the face fully or clearly. Do not clean up the grain or the color cast. Do not beautify the skin. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/indie-album-cover-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "vinyl-record-mockup",
+    "title": "LP 레코드 자켓 목업",
+    "summary": "실물 LP 슬리브에 인쇄된 것처럼 보이는 목업 컷",
+    "categorySlug": "album-concept",
+    "aspectRatio": "1:1",
+    "tags": [
+      "LP",
+      "목업",
+      "레코드",
+      "패키지"
+    ],
+    "promptText": "[GOAL] A physical vinyl record sleeve mockup with a portrait of the uploaded person printed on it.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[OBJECT] A 12-inch record sleeve standing upright, leaning slightly back against a wall. The cover art is a bold cropped portrait of the person, printed with the halftone dot structure and slight ink misregistration of offset printing. The black vinyl disc slides halfway out of the open side, its grooves catching a thin arc of light.\n\n[MATERIAL] Uncoated card stock with a visible paper grain, softened corners, faint shelf wear along the bottom edge, and a subtle warp across the face of the sleeve.\n\n[SET] A wooden floor or a plain painted wall, one or two other sleeves stacked behind and out of focus.\n\n[LIGHT] Soft window daylight raking across from the left, revealing the paper texture and the warp, with a gentle sheen along the vinyl surface.\n\n[CAMERA] 50mm at f/4, shot from slightly above at a three-quarter angle so the sleeve reads as a real object with depth, shallow depth of field on the background.\n\n[DO NOT] Do not render readable text, an artist name, or a title anywhere on the sleeve. Do not make the card look glossy and new. Do not use a real record label logo. Do not flatten it into a plain 2D graphic. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/vinyl-record-mockup-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "cherry-blossom-spring",
+    "title": "벚꽃 스냅",
+    "summary": "꽃잎 흩날리는 봄날 벚꽃길 인물 스냅",
+    "categorySlug": "seasonal",
+    "aspectRatio": "4:5",
+    "tags": [
+      "봄",
+      "벚꽃",
+      "스냅",
+      "계절"
+    ],
+    "promptText": "[GOAL] A spring snapshot of the uploaded person under blooming cherry blossoms.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCENE] A path lined with cherry trees in full bloom, branches arching overhead so blossoms fill the upper frame and blur into a pale pink canopy. Petals drift through the air at several depths, a few caught on the shoulder and in the hair. Fallen petals scatter the ground below.\n\n[MOMENT] The subject looks up or glances back mid-walk, one hand lifting slightly, caught in an unguarded half-smile. Nothing arranged.\n\n[LIGHT] Bright but diffused spring daylight filtering through the blossoms, throwing soft dappled light across the face and a warm pink bounce onto the skin from the petals above.\n\n[CAMERA] 85mm at f/1.8, waist-up framing, subject sharp with the blossoms in front and behind dissolving into large soft bokeh, a few foreground branches deliberately out of focus across one corner.\n\n[FINISH] Airy natural color with lifted highlights, gentle contrast, fine grain, clean whites in the blossoms without clipping.\n\n[DO NOT] Do not oversaturate the pink into something artificial. Do not blow out the blossoms into featureless white. Do not pose the subject stiffly toward the camera. Do not beautify the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/cherry-blossom-spring-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "christmas-warm-night",
+    "title": "크리스마스 야경",
+    "summary": "전구 조명 아래 따뜻한 크리스마스 무드 인물",
+    "categorySlug": "seasonal",
+    "aspectRatio": "4:5",
+    "tags": [
+      "겨울",
+      "크리스마스",
+      "야경",
+      "보케"
+    ],
+    "promptText": "[GOAL] A warm Christmas-night portrait of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCENE] Standing beside a lit tree or in front of a window strung with string lights, wearing a heavy knit and a wool coat, breath faintly visible in the cold. Strands of small warm bulbs recede at multiple depths behind them.\n\n[LIGHT] The string lights are the only real source — warm tungsten points scattered around, throwing a soft golden key onto one side of the face and leaving the other in cool blue shadow. A few bulbs sit close enough to the lens to bloom.\n\n[BOKEH] The background lights render as large soft circular bokeh at several sizes, overlapping and slightly warm, with gentle onion-ring structure at their edges.\n\n[CAMERA] 85mm at f/1.4, chest-up framing, focus locked on the near eye, extremely shallow depth of field so the lights immediately behind already dissolve.\n\n[FINISH] Warm cinematic grade, deep blue-leaning shadows against golden highlights, fine grain, slight halation blooming around the brightest bulbs.\n\n[DO NOT] Do not light the face evenly or add a flash. Do not render the bokeh as sharp small dots. Do not clip the highlights to pure white. Do not beautify the skin. Do not add text, a real brand logo, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/christmas-warm-night-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "autumn-maple-portrait",
+    "title": "가을 단풍 인물",
+    "summary": "붉은 단풍이 배경을 가득 채운 가을 인물 사진",
+    "categorySlug": "seasonal",
+    "aspectRatio": "4:5",
+    "tags": [
+      "가을",
+      "단풍",
+      "인물",
+      "계절"
+    ],
+    "promptText": "[GOAL] An autumn portrait of the uploaded person surrounded by turning maple leaves.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCENE] Standing on a path thick with fallen leaves, maples in full red and amber filling the entire background. A few leaves drift down through the frame. The subject wears a knit and a light coat in a muted tone that sits against the warm foliage rather than competing with it.\n\n[LIGHT] Low late-afternoon sun coming through the canopy from behind, setting the leaves glowing translucent and throwing a warm rim along the hair and shoulder. A soft bounce from the leaf-covered ground fills the face with reflected amber.\n\n[MOMENT] Turned three-quarters away with the head coming back toward the lens, one hand at the collar, a small unforced smile.\n\n[CAMERA] 85mm at f/2, chest-up framing, subject sharp with the foliage compressing into layered warm bokeh, a slight veiling flare from the backlight.\n\n[FINISH] Rich autumn grade with saturated but believable reds, warm highlights, shadows kept neutral so the whole frame does not go orange, fine grain.\n\n[DO NOT] Do not push the color into a fake orange filter. Do not blow out the backlight into a white haze that eats the subject. Do not flatten the light with a frontal fill. Do not beautify the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/autumn-maple-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "die-cut-sticker-sheet",
+    "title": "다이컷 스티커 시트",
+    "summary": "여러 표정이 한 장에 배열된 캐릭터 스티커 시트",
+    "categorySlug": "sticker-emoji",
+    "aspectRatio": "1:1",
+    "tags": [
+      "스티커",
+      "굿즈",
+      "다이컷",
+      "캐릭터"
+    ],
+    "promptText": "[GOAL] A die-cut sticker sheet of the uploaded person as a cartoon character.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this character is. Carry across their hairstyle and hair color, eye shape, eyebrow angle, skin tone, glasses and outfit colors so every sticker on the sheet is recognizably the same specific person. Simplify the drawing, never the identity.\n\n[CONTENT] Eight to ten stickers arranged on one sheet, each a different expression or small pose of the same character: waving, thumbs up, laughing, sulking, sleeping, thinking, hearts in the eyes, holding a coffee. Sizes vary; a couple are just the head, others are half-body.\n\n[ART STYLE] Clean cartoon illustration with a bold uniform outline, flat cel fills with a single soft shadow tone, simple expressive features. Bright cheerful palette.\n\n[SHEET] Each sticker sits inside a thick white die-cut border with a rounded offset outline. They are packed at slight angles with small gaps between them on a plain light backing sheet, with faint kiss-cut lines visible around each shape.\n\n[FINISH] Flat straight-on view of the sheet, even lighting, a subtle glossy sheen across the vinyl surface, crisp edges throughout.\n\n[DO NOT] Do not render photorealistically or with 3D shading. Do not draw readable text or speech bubbles with words. Do not overlap the stickers. Do not add a watermark or a real brand logo.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/die-cut-sticker-sheet-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "chat-emoji-set",
+    "title": "채팅 이모티콘 세트",
+    "summary": "메신저용 소형 표정 이모티콘 그리드",
+    "categorySlug": "sticker-emoji",
+    "aspectRatio": "1:1",
+    "tags": [
+      "이모티콘",
+      "메신저",
+      "그리드",
+      "캐릭터"
+    ],
+    "promptText": "[GOAL] A messenger emoticon set based on the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this character is. Keep the hairstyle, hair color, eye shape, glasses and any signature accessory consistent across every single cell so the whole set reads as one specific person. Simplify heavily, but never into a generic face.\n\n[LAYOUT] A clean 3 by 3 grid of nine square cells with even white gutters between them. Each cell holds one emoticon centered against a transparent-looking white field.\n\n[CONTENT] Nine distinct emotional states, each exaggerated enough to read at a very small size: delighted, crying, angry, embarrassed, smug, exhausted, surprised, pleading, and blowing a kiss. Poses are head-and-shoulders or head-only with simple gesturing hands where useful.\n\n[ART STYLE] Chubby simplified cartoon proportions with an oversized head, thick uniform outlines, flat bright fills, and small motion accents — sweat drops, blush marks, spark lines — drawn in the same simple style.\n\n[LEGIBILITY] Every expression must survive being scaled down to 64 pixels: strong silhouette, high contrast between the face and the hair, no fine internal detail.\n\n[DO NOT] Do not render readable text anywhere. Do not use realistic proportions, shading, or photographic detail. Do not vary the character design between cells. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/chat-emoji-set-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": false,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "tilt-shift-miniature-city",
+    "title": "틸트시프트 미니어처 도시",
+    "summary": "실제 도시가 장난감 모형처럼 보이는 틸트시프트 컷",
+    "categorySlug": "miniature-diorama",
+    "aspectRatio": "4:5",
+    "tags": [
+      "미니어처",
+      "틸트시프트",
+      "도시",
+      "디오라마"
+    ],
+    "promptText": "[GOAL] A tilt-shift photograph that makes a real city look like a tabletop model.\n\n[SCENE] A dense city block shot from high above at a steep downward angle — an intersection with crossing traffic, a small park, rows of low buildings, tiny pedestrians scattered across the crosswalks.\n\n[THE MINIATURE EFFECT] A narrow band of sharp focus runs horizontally across the middle of the frame; everything above and below falls off into strong progressive blur. This shallow focus at a large scale is what tricks the eye into reading real objects as models.\n\n[COLOR] Push saturation and contrast noticeably higher than reality — bright primary-colored cars, vivid green trees, clean white road markings — so surfaces read as painted plastic rather than weathered concrete.\n\n[LIGHT] Hard midday sun from a steep angle, throwing short crisp shadows that make each building feel like a separate placed object.\n\n[CAMERA] Long lens from a rooftop or a hillside, steep downward angle, the horizon excluded entirely so there is no scale reference.\n\n[FINISH] Crisp within the focus band, smooth creamy falloff outside it, slightly punchy overall grade.\n\n[DO NOT] Do not include the horizon or the sky. Do not shoot from ground level. Do not use soft overcast light — the effect needs hard shadows. Do not add text or a watermark.",
+    "mediaUrl": "/prompts/tilt-shift-miniature-city-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "desk-diorama-scene",
+    "title": "책상 위 디오라마",
+    "summary": "책상 위에 놓인 작은 미니어처 세계 속 인물",
+    "categorySlug": "miniature-diorama",
+    "aspectRatio": "1:1",
+    "tags": [
+      "디오라마",
+      "미니어처",
+      "모형",
+      "책상"
+    ],
+    "promptText": "[GOAL] Place the uploaded person inside a handmade miniature diorama sitting on a desk.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCALE] The person appears as a tiny figure roughly 4cm tall, standing inside a small built scene. Their scale is made obvious by real full-size desk objects looming at the edges of the frame — a pencil, a coffee mug, a keyboard corner — dwarfing the entire diorama.\n\n[DIORAMA] A small base holding a hand-built environment: model trees made from wire and foam, a tiny painted building, ground cover scattered as static grass, a mirror shard standing in for water. Visible glue seams and slightly imperfect craft finishing throughout.\n\n[FIGURE] The person is sculpted and hand-painted at model-railway quality — the pose readable, the face rendered with brush strokes rather than photographic detail, yet still carrying their hairstyle, outfit colors and recognizable proportions.\n\n[LIGHT] A desk lamp from the upper left acting as the sun for this small world, casting long hard shadows across the diorama base, with cool ambient room light filling in from the window side.\n\n[CAMERA] Macro lens at f/8 brought down to the figure's eye level, extremely shallow depth of field so only a few centimeters of the scene are sharp and the desk objects behind blur into soft masses.\n\n[DO NOT] Do not render the figure at photographic human detail — it is a painted model. Do not hide the handmade imperfections. Do not lose the scale cues at the frame edges. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/desk-diorama-scene-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "fantasy-knight-armor",
+    "title": "판타지 기사 갑옷",
+    "summary": "실전에 쓰인 듯한 갑옷 차림의 판타지 기사",
+    "categorySlug": "fantasy-cosplay",
+    "aspectRatio": "4:5",
+    "tags": [
+      "판타지",
+      "기사",
+      "갑옷",
+      "코스프레"
+    ],
+    "promptText": "[GOAL] Cast the uploaded person as a fantasy knight in worn plate armor.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[ARMOR] Functional articulated plate — overlapping pauldrons, a fitted breastplate with visible rivets and buckled straps, mail showing at the joints. The metal is scratched, dented and dulled from use, with rust blooming in the crevices and old leather straps darkened with wear. Nothing is polished or ceremonial.\n\n[POSE] Standing at rest after something has already happened, one hand resting on a sheathed sword hilt, helmet held under the other arm or absent entirely. Shoulders heavy, gaze steady and tired.\n\n[SCENE] A grey overcast field or a courtyard after rain, the background reduced to soft shapes and mist.\n\n[LIGHT] Flat diffused daylight from a broken sky, raking just enough to reveal the hammered texture of the metal, with a subtle cool bounce from the wet ground.\n\n[CAMERA] 85mm at f/2.8, three-quarter body framing from slightly below eye level, focus on the near eye, armor detail crisp.\n\n[FINISH] Desaturated cinematic grade with cold shadows, a fine layer of atmospheric haze, natural skin texture with visible dirt and sweat at the temple.\n\n[DO NOT] Do not render shiny showroom-clean armor or fantasy-game ornamentation. Do not use a real film or game franchise design. Do not beautify the skin or remove the grime. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/fantasy-knight-armor-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "magic-caster-portrait",
+    "title": "마법사 캐스팅 순간",
+    "summary": "손끝에서 빛이 피어오르는 주문 시전 장면",
+    "categorySlug": "fantasy-cosplay",
+    "aspectRatio": "4:5",
+    "tags": [
+      "판타지",
+      "마법사",
+      "이펙트",
+      "시네마틱"
+    ],
+    "promptText": "[GOAL] Cast the uploaded person as a spellcaster at the moment a spell ignites.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[MOMENT] One hand is raised with the fingers half-curled, and a concentration of light has just bloomed above the palm. Fine glowing particles spiral upward from it. The other hand is drawn back, the body braced. Eyes are open and fixed on the light, jaw set.\n\n[COSTUME] A heavy layered robe or coat with visible weave and embroidered edging, worn open over practical clothing. Fabric hangs with real weight and drapes into deep folds. Everything looks lived in.\n\n[LIGHTING — CRITICAL] The spell is the primary light source and it lights the scene from the hand outward: the underside of the chin and nose, the inner forearm, and the front of the robe are all brightly lit from below, while the top of the head and shoulders stay dark. Cool ambient light from behind rims the silhouette. The illumination must be physically consistent with the light being in the hand.\n\n[SCENE] A dark stone interior or a night forest reduced to shapes, dust and moisture in the air catching the spell light in visible volumetric shafts.\n\n[CAMERA] 50mm at f/2, waist-up framing, the raised hand nearest camera and slightly soft, the face sharp.\n\n[FINISH] Cinematic grade with rich blacks retaining detail, restrained saturation on the magic so it does not clip to white.\n\n[DO NOT] Do not light the face from the front — the light must come from the hand. Do not blow the effect out into featureless white. Do not use a real game or film's magic design. Do not beautify the skin. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/magic-caster-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "bw-hands-detail",
+    "title": "흑백 손 클로즈업",
+    "summary": "얼굴 대신 손과 소지품만으로 사람을 말하는 흑백 컷",
+    "categorySlug": "bw-portrait",
+    "aspectRatio": "1:1",
+    "tags": [
+      "흑백",
+      "클로즈업",
+      "디테일",
+      "손"
+    ],
+    "promptText": "[GOAL] A black and white detail shot of the uploaded person's hands.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the source of truth for this person's hands and what they carry. Match their apparent age, skin tone rendered in monochrome values, nail shape and length, any rings, watch, tattoos, scars or callouses visible in the reference. If the reference does not show the hands, infer them from the person's age and build rather than defaulting to generic young hands.\n\n[SUBJECT] Both hands resting together, one loosely holding a familiar object — a worn book, a cup, a pen, a strap. The face is not in frame at all; the hands carry the entire portrait.\n\n[LOOK] Monochrome with a long tonal range, deep blacks in the shadow between the fingers, delicate highlight detail across the knuckles. Fine grain.\n\n[LIGHT] A single soft window light from the side, raking low across the skin so every crease, tendon and vein reads clearly, with the shadow side falling into near black.\n\n[CAMERA] 100mm macro at f/4, tight framing with the hands filling the frame, focus on the nearest knuckle, extremely high skin detail.\n\n[DO NOT] Do not include the face. Do not smooth the skin or erase veins, wrinkles, or callouses. Do not output color. Do not light the hands flatly. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/bw-hands-detail-1786164303965.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "pet-and-owner-portrait",
+    "title": "반려동물과 함께",
+    "summary": "주인과 반려동물이 함께 담긴 자연광 인물 사진",
+    "categorySlug": "pet",
+    "aspectRatio": "4:5",
+    "tags": [
+      "반려동물",
+      "커플샷",
+      "자연광",
+      "일상"
+    ],
+    "promptText": "[GOAL] A natural-light portrait of the uploaded person together with their pet.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[MOMENT] The person is crouched or seated with the animal leaning into them, one hand buried in the fur along its neck. The animal looks off toward something out of frame while the person looks down at it, mid-laugh. Neither is looking at the camera. The interaction is real, not arranged.\n\n[SET] A simple domestic space — a living room floor by a window, a doorway, a sunny patch of grass. Uncluttered and soft.\n\n[LIGHT] Large soft window daylight from one side, wrapping gently around both faces, with a subtle bounce keeping the shadow side open. The fur catches a warm rim along the animal's back.\n\n[CAMERA] 50mm at f/2, waist-up framing that keeps both heads in the same focal plane, focus split between the person's eye and the animal's eye, background falling softly away.\n\n[FINISH] Warm natural color, gentle contrast, fine grain, honest skin and fur texture.\n\n[DO NOT] Do not change the animal's breed or markings. Do not pose either subject facing the camera stiffly. Do not beautify the skin or idealize the coat. Do not add text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do.",
+    "mediaUrl": "/prompts/pet-and-owner-portrait-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "pet-in-costume",
+    "title": "반려동물 코스튬 컷",
+    "summary": "작은 모자와 스카프를 걸친 귀여운 반려동물 스튜디오 컷",
+    "categorySlug": "pet",
+    "aspectRatio": "1:1",
+    "tags": [
+      "반려동물",
+      "코스튬",
+      "스튜디오",
+      "귀여움"
+    ],
+    "promptText": "[GOAL] A charming studio shot of the uploaded pet wearing a small costume.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for which animal this is. Reproduce the exact breed, coat color and markings down to their placement, eye color, ear shape, muzzle length and body proportions. Do not substitute a generic animal of the same breed and do not idealize the coat. If the owner could not pick this animal out of a lineup of the same breed, the image has failed.\n\n[COSTUME] Something modest and believable — a knitted hat with ear holes, a small bow tie, a tiny scarf, or a bandana. The item sits naturally on the animal with slight asymmetry, as if just placed there, and does not obscure the face or markings.\n\n[EXPRESSION] The animal wears the mildly unimpressed expression of a pet tolerating a costume: ears at a slight angle, eyes half-lidded or looking off to the side, head tilted a little.\n\n[SET] A soft pastel seamless backdrop in a color chosen to contrast with the coat.\n\n[LIGHT] Large soft key from the front left, gentle fill on the right, a subtle hair light lifting the fur off the background. Even and flattering, no harsh shadows.\n\n[CAMERA] 85mm at f/4 brought down to the animal's eye level, head-and-shoulders framing, focus on the near eye with a clean catchlight, fur strands crisply resolved.\n\n[DO NOT] Do not change the breed, coat color, or markings. Do not cover the face with the costume. Do not use an elaborate full-body outfit. Do not render it as an illustration. Do not add text, a real brand logo, or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style and staging may bend before the animal's markings do.",
+    "mediaUrl": "/prompts/pet-in-costume-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "90s-anime-cel",
+    "title": "90년대 애니 셀화",
+    "summary": "필름 스캔 질감이 살아있는 90년대 TV 애니 화면",
+    "categorySlug": "anime-webtoon",
+    "aspectRatio": "4:3",
+    "tags": [
+      "애니메이션",
+      "90년대",
+      "셀화",
+      "레트로"
+    ],
+    "promptText": "[GOAL] Redraw the uploaded person as a frame from a 1990s hand-painted TV anime.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this character is. Carry across the hairstyle and hair color, eye shape, eyebrow angle and face shape so the character reads as this specific person drawn in period anime style. Do not default to a generic anime face.\n\n[ART STYLE] Authentic 90s cel animation: hand-inked outlines of consistent weight, flat paint fills with exactly one hard-edged shadow tone per color, no gradients or digital blending anywhere. Slightly muted paint colors. Characteristic period design — narrower eyes than modern anime, a sharper chin, hair drawn in defined clumps rather than fine strands.\n\n[BACKGROUND] A separately painted background in soft gouache — an evening street or a classroom window — noticeably more textural and detailed than the flat character, exactly as the two-layer cel process produced.\n\n[FILM ARTIFACTS] Slight registration offset between the cel and background layers, visible film grain, dust specks, mild color bleeding, a soft overall haze, and the compressed color range of a broadcast source.\n\n[COMPOSITION] 4:3 frame, medium shot from chest up, character placed off-center.\n\n[DO NOT] Do not use modern digital anime shading, gradients, or glow effects. Do not render at crisp HD sharpness. Do not use a real anime franchise's character design. Do not add readable text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/90s-anime-cel-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "american-cartoon-style",
+    "title": "미국 카툰 스타일",
+    "summary": "과장된 라인의 서양 애니메이션 캐릭터 변신",
+    "categorySlug": "anime-webtoon",
+    "aspectRatio": "1:1",
+    "tags": [
+      "카툰",
+      "서양애니",
+      "과장",
+      "캐릭터"
+    ],
+    "promptText": "[GOAL] Redraw the uploaded person as a modern western cartoon character.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this character is. Exaggerate their features rather than replacing them — if their jaw is strong, push it further; if their eyes are wide-set, widen them more. Keep the hairstyle silhouette, hair color, glasses and outfit colors exact. The caricature must amplify this specific person, never flatten them into a generic cartoon face.\n\n[ART STYLE] Contemporary western animation design — bold outlines with strong thick-to-thin variation, simplified geometric shape language, expressive oversized eyes with visible pupils, a small simplified nose, and hands reduced to four fingers. Flat cel fills with one clean shadow tone and a bright rim accent.\n\n[PROPORTION] Head noticeably enlarged relative to the body, limbs simplified and slightly rubbery, posture pushed into a confident asymmetric stance with weight on one hip.\n\n[BACKGROUND] A flat two-tone shape with a simple graphic accent — a burst, a stripe, a halftone patch — in a saturated complementary color.\n\n[FINISH] Clean vector-crisp edges, bright saturated palette, high contrast between the character and background.\n\n[DO NOT] Do not render photorealistically or with 3D shading. Do not use a real animation studio's established character design. Do not lose the reference person's likeness in the exaggeration. Do not add readable text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/american-cartoon-style-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "80s-tokyo-citypop",
+    "title": "80년대 도쿄 시티팝",
+    "summary": "네온 간판과 자판기가 있는 80년대 도쿄 밤거리",
+    "categorySlug": "time-travel",
+    "aspectRatio": "4:5",
+    "tags": [
+      "시간여행",
+      "1980년대",
+      "시티팝",
+      "도쿄"
+    ],
+    "promptText": "[GOAL] Place the uploaded person on a Tokyo street at night in the mid-1980s.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[STYLING] Period wardrobe — a boxy shouldered blazer or a windbreaker with color-blocked panels, high-waisted pleated trousers, a knit polo. Hair with volume, blow-dried and slightly feathered. Everything reads as 1985, not as a modern retro costume.\n\n[SCENE] A narrow street lined with stacked vertical signage in Japanese, a glowing vending machine, a payphone booth, cables strung overhead. A single boxy sedan of the era sits parked at the curb.\n\n[LIGHT] Warm fluorescent spill from the vending machine as key, cool white from a convenience store window behind, and saturated red and blue from the signage rimming the shoulders. Every source is practical and visible.\n\n[LOOK] 1980s color film — warm cast, softer contrast, gentle halation around every light source, visible grain, slightly muddy blacks, and the limited resolving power of period consumer glass.\n\n[CAMERA] 35mm at f/2, waist-up framing, subject standing casually rather than posing, signage compressing into colored bokeh behind.\n\n[DO NOT] Do not include any modern object — no smartphones, no LED signage, no current car models. Do not render readable Japanese text; leave signage lettering abstract. Do not use clean digital sharpness. Do not beautify the skin. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/80s-tokyo-citypop-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "1960s-space-age",
+    "title": "1960년대 우주 시대",
+    "summary": "레트로 퓨처 우주복을 입은 60년대 우주 시대 인물",
+    "categorySlug": "time-travel",
+    "aspectRatio": "4:5",
+    "tags": [
+      "시간여행",
+      "1960년대",
+      "레트로퓨처",
+      "우주"
+    ],
+    "promptText": "[GOAL] Cast the uploaded person as an astronaut in the optimistic space age of the 1960s.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[COSTUME] A period pressure suit in off-white canvas with quilted segments, chrome collar ring, rubber-sealed cuffs, and analog gauges stitched to the forearm. A rounded fishbowl helmet is held under one arm. Everything is fabric and metal — nothing looks like modern composite gear.\n\n[SCENE] A retro-futurist launch bay: curved white paneling, oversized round rivets, chunky analog control consoles with physical toggle switches and glowing incandescent indicator bulbs, a porthole window showing black space beyond.\n\n[LIGHT] Hard practical fill from overhead panel lights producing crisp reflections on the chrome ring and helmet glass, with a cool blue spill from the porthole rimming one shoulder.\n\n[LOOK] Period color film — slightly warm, moderately saturated with strong reds, fine grain, gentle contrast, mild lens softness toward the corners.\n\n[POSE] Standing squared to the camera, helmet under the arm, chin lifted, expression confident and formal — the posture of an official press portrait.\n\n[CAMERA] 50mm at f/5.6, three-quarter body framing, evenly sharp, shot straight on at chest height.\n\n[DO NOT] Do not use modern spacesuit design, digital displays, or LED lighting. Do not include any real space agency insignia or logo. Do not render with digital clarity. Do not beautify the skin. Do not add readable text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/1960s-space-age-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "horror-movie-poster",
+    "title": "호러 영화 포스터",
+    "summary": "어둠 속에서 반쯤 드러난 얼굴의 호러 포스터",
+    "categorySlug": "movie-poster",
+    "aspectRatio": "3:4",
+    "tags": [
+      "영화포스터",
+      "호러",
+      "어둠",
+      "긴장"
+    ],
+    "promptText": "[GOAL] A horror movie poster featuring the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[COMPOSITION] The face fills the upper half of the frame but only partially emerges from darkness — roughly a third of it is lit while the rest dissolves into black. The lower half of the poster is almost entirely empty shadow, reserved as title space. Something small and out of focus is suggested in the deep background, never resolved.\n\n[LIGHT] A single hard source from below and to the side, throwing shadows upward across the face in the direction they never naturally fall. Deep black fills every area the light does not reach.\n\n[EXPRESSION] Not screaming. Very still, eyes wide and fixed slightly off-camera, mouth closed, the moment just before something happens rather than during it.\n\n[LOOK] Desaturated to near-monochrome with a single cold color leaking into the highlights. Heavy grain, crushed blacks, a faint smear of texture over the image like dust on glass.\n\n[CAMERA] 85mm at f/2, tight framing, focus on the visible eye, the dark side of the face left completely unresolved.\n\n[DO NOT] Do not render any readable text, title, or studio logo — leave those areas empty. Do not show gore, blood, or a monster. Do not light the whole face. Do not use a real film's branding. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/horror-movie-poster-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "airport-departure-snap",
+    "title": "공항 출국 스냅",
+    "summary": "캐리어 끌고 게이트로 향하는 공항 여행 스냅",
+    "categorySlug": "travel-city",
+    "aspectRatio": "4:5",
+    "tags": [
+      "여행",
+      "공항",
+      "스냅",
+      "출국"
+    ],
+    "promptText": "[GOAL] A candid airport departure snapshot of the uploaded person.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[SCENE] A wide terminal concourse. The subject walks away from the camera pulling a carry-on, then glances back over one shoulder. Floor-to-ceiling windows on one side flood the space with daylight and show an aircraft parked at the gate beyond. Other travelers move through the frame, blurred.\n\n[STYLING] Comfortable travel clothing — an oversized knit or a light jacket, a crossbody bag, sneakers. A passport or boarding pass held loosely in one hand.\n\n[LIGHT] Bright indirect daylight through the glass wall as key, with the terminal's overhead fixtures adding a slightly cooler fill. Long soft reflections stretch across the polished floor.\n\n[CAMERA] 35mm at f/2.8, framed from head to shins, subject off-center on the right third, walking into the open space on the left. A slight handheld tilt.\n\n[FINISH] Clean natural travel-photography color, mild grain, realistic skin, motion softness only in the other travelers.\n\n[DO NOT] Do not render readable airline branding, signage text, or logos. Do not empty the terminal into something unreal. Do not pose the subject facing the camera. Do not beautify the skin. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/airport-departure-snap-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "levitation-freeze-frame",
+    "title": "공중부양 프리즈",
+    "summary": "소지품까지 공중에 멈춘 초현실 부유 장면",
+    "categorySlug": "motion-dynamic",
+    "aspectRatio": "4:5",
+    "tags": [
+      "모션",
+      "공중부양",
+      "초현실",
+      "프리즈"
+    ],
+    "promptText": "[GOAL] A surreal frozen moment where the uploaded person and their belongings hang in mid-air.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[THE MOMENT] The person floats horizontally about a meter above the floor, body relaxed as if lying on an invisible surface, eyes closed. Around them, ordinary objects hang suspended at different heights and rotations — an open book, a few sheets of paper, a cup with the liquid still holding its shape, a pair of glasses, some coins.\n\n[PHYSICS] Everything must read as genuinely weightless and mid-fall: clothing and hair lift away from the body rather than draping down, the paper sheets curve as if caught in the air, no object touches another, and each casts its own small shadow on the floor below to confirm it is really airborne.\n\n[SET] A plain room with a bare floor and a single window, deliberately empty so the floating objects carry the entire frame.\n\n[LIGHT] Soft directional daylight from the window on one side, producing gentle modeling on the face and distinct grounded shadows beneath every suspended object.\n\n[CAMERA] 35mm at f/5.6 from floor level looking slightly up, everything sharp so the impossibility reads clearly, no motion blur anywhere.\n\n[DO NOT] Do not let hair or clothing hang downward as if standing. Do not omit the shadows on the floor. Do not add motion blur — everything is frozen. Do not add visible wires, supports, or text. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/levitation-freeze-frame-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "polaroid-wall-collage",
+    "title": "폴라로이드 월 콜라주",
+    "summary": "벽에 집게로 매단 폴라로이드 사진들의 콜라주",
+    "categorySlug": "scrapbook",
+    "aspectRatio": "4:5",
+    "tags": [
+      "폴라로이드",
+      "콜라주",
+      "벽",
+      "인테리어"
+    ],
+    "promptText": "[GOAL] A wall of instant photos of the uploaded person, hung on string.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[LAYOUT] Three sagging horizontal strings stretched across a plain wall, each holding five or six instant prints clipped on with small wooden pegs. The photos hang at slightly different heights and angles, a couple curling forward at the corners, one clipped upside down.\n\n[CONTENT] Every print shows the same person in a different everyday moment — laughing, looking away, half-blinking, mid-sentence, in different clothing and light. They read as photos taken across months, not one session.\n\n[PRINT LOOK] Each has the classic white instant border with the wide base. Color varies noticeably between prints: some warmer, some cooler, some faded, one badly overexposed by flash. Lifted blacks and soft corners throughout.\n\n[LIGHT] Warm lamp light from the side of the room, raking across the wall so each hanging print casts its own small soft shadow and the curling corners catch a highlight.\n\n[CAMERA] 50mm at f/2.8 shot straight on, the middle string in sharp focus and the upper and lower ones falling slightly soft, wall texture visible behind.\n\n[DO NOT] Do not render readable handwriting or text on the borders. Do not arrange the photos into a neat aligned grid. Do not make every print the same color and exposure. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/polaroid-wall-collage-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "hanbok-outdoor-palace",
+    "title": "고궁 한복 스냅",
+    "summary": "고궁 돌담길에서 찍은 자연광 한복 스냅",
+    "categorySlug": "hanbok-traditional",
+    "aspectRatio": "4:5",
+    "tags": [
+      "한복",
+      "고궁",
+      "스냅",
+      "자연광"
+    ],
+    "promptText": "[GOAL] An outdoor hanbok snapshot of the uploaded person at a traditional Korean palace.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[WARDROBE] A hanbok rendered with real garment knowledge — a jeogori with a properly curved sleeve line and a goreum ribbon tied at the chest, a full chima or baji falling in heavy soft folds that move with the body. Silk with a subtle sheen, colors drawn from a traditional palette with contrasting collar trim.\n\n[SCENE] A palace grounds path beside a stone wall, with tiled eaves and painted wooden beams visible behind, softly out of focus. Autumn or late spring, the grounds quiet.\n\n[MOMENT] Walking slowly along the wall and turning back toward the camera mid-step, one hand lifting the skirt slightly, the fabric still swinging. Unposed and light.\n\n[LIGHT] Soft late-afternoon daylight coming from the side, warm on the silk and catching the sheen along the sleeve, with gentle bounce from the pale stone wall filling the shadow side.\n\n[CAMERA] 85mm at f/2, three-quarter body framing, subject sharp with the architecture compressing into soft shapes behind, a hint of the wall leading the eye.\n\n[FINISH] Natural warm color, gentle contrast, fabric texture and weave clearly resolved, honest skin texture.\n\n[DO NOT] Do not invent a fantasy or costume-shop version of the garment. Do not mix in Chinese or Japanese traditional dress elements. Do not pose the subject stiffly facing the camera. Do not over-retouch the skin. Do not add readable signage text or a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/hanbok-outdoor-palace-example-female-20260909.png"
+  },
+  {
+    "mediaType": "image",
+    "needsReferencePhoto": true,
+    "modelSlug": "gpt-image",
+    "createdAt": "2026-08-03",
+    "id": "rpg-status-screen",
+    "title": "RPG 상태창 화면",
+    "summary": "스탯과 인벤토리가 뜬 RPG 캐릭터 상태창",
+    "categorySlug": "pixel-game",
+    "aspectRatio": "4:5",
+    "tags": [
+      "게임UI",
+      "RPG",
+      "상태창",
+      "인벤토리"
+    ],
+    "promptText": "[GOAL] An RPG character status screen with the uploaded person as the player character.\n\n[IDENTITY — HIGHEST PRIORITY] The uploaded photo is the only source of truth for who this person is. Reproduce their exact face shape, eye shape and spacing, eyelid crease, nose bridge and tip, lip shape, jawline, skin tone and hairstyle, along with distinguishing marks such as moles, freckles or glasses. Do not beautify, slim the face, smooth the skin, enlarge the eyes, change the age, or blend the features with anyone else. If a friend of this person could not recognize them instantly in the result, the image has failed.\n\n[CHARACTER PANEL] The left side holds a full-body character render of the person in light fantasy adventuring gear — a traveling cloak, leather bracers, a satchel — standing in a neutral idle pose on a soft vignette background. The face is painted in a semi-realistic game-art style but stays clearly this specific person.\n\n[UI LAYOUT] The right side holds the interface: a stacked list of stat rows each with a label plate and a partially filled bar, a grid of square equipment slots along the bottom with simple item icons in a few of them and the rest empty, and a circular portrait frame in the upper corner showing a cropped version of the same face.\n\n[UI STYLE] Ornate fantasy framing — beveled metal borders, subtle scrollwork at the corners, parchment-toned panels with a faint texture, warm gold accents. Every piece of lettering is rendered as abstract unreadable glyphs.\n\n[LIGHT] The character is lit by a warm key from the upper left with a cool rim behind; the UI panels sit flat with a soft inner glow.\n\n[FINISH] Crisp game-art rendering, clean geometry on the interface, vertical composition.\n\n[DO NOT] Do not render readable text or numbers anywhere. Do not use a real game's UI design or logo. Do not render photorealistically — this is game art. Do not render extra or warped fingers. Do not add a watermark.\n\n[PRIORITY] If any instruction here conflicts with the identity rule, the identity rule wins — style, lighting and composition may all bend before the face does.",
+    "mediaUrl": "/prompts/rpg-status-screen-example-female-20260909.png"
+  }
+]

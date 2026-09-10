@@ -1,65 +1,72 @@
-import Image from "next/image";
+import { getCategories } from "@/data/categories";
+import { models } from "@/data/models";
+import { getLatestPrompts } from "@/data/prompts";
+import CategoryTile from "@/components/CategoryTile";
+import ModelTile from "@/components/ModelTile";
+import PromptGrid from "@/components/PromptGrid";
 
 export default function Home() {
+  const latest = getLatestPrompts(8);
+  const categories = getCategories();
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
+    <div className="flex flex-col">
+      <section className="border-b border-card-border bg-background-alt">
+        <div className="mx-auto flex max-w-6xl flex-col items-center gap-4 px-5 py-16 text-center sm:py-24">
+          <span className="font-mono-accent rounded-md bg-card px-3 py-1 text-xs text-primary shadow-sm">
+            결과물부터 확인하는 AI 프롬프트
+          </span>
+          <h1 className="text-3xl font-bold leading-tight sm:text-5xl">
+            바로 쓰는 AI 프롬프트,
+            <br className="sm:hidden" /> 결과로 먼저 확인하세요
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+          <p className="max-w-xl text-sm text-foreground-muted sm:text-base">
+            프롬프트마다 실제 생성 결과를 함께 보여드려요. 원하는 결과를
+            먼저 고르고, 프롬프트를 복사해서 바로 사용해보세요.
           </p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </section>
+
+      <section id="categories" className="mx-auto w-full max-w-6xl px-5 py-14">
+        <div className="mb-5 flex items-end justify-between">
+          <h2 className="text-xl font-bold">주제별 탐색</h2>
+          <span className="font-mono-accent text-xs text-foreground-muted">
+            {categories.length}개 주제
+          </span>
         </div>
-      </main>
+        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+          {categories.map((c) => (
+            <CategoryTile key={c.slug} category={c} />
+          ))}
+        </div>
+      </section>
+
+      <section
+        id="models"
+        className="mx-auto w-full max-w-6xl px-5 py-14"
+      >
+        <div className="mb-5 flex items-end justify-between">
+          <h2 className="text-xl font-bold">모델별 탐색</h2>
+          <span className="font-mono-accent text-xs text-foreground-muted">
+            {models.length}개 모델
+          </span>
+        </div>
+        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
+          {models.map((m) => (
+            <ModelTile key={m.slug} model={m} />
+          ))}
+        </div>
+      </section>
+
+      <section id="latest" className="mx-auto w-full max-w-6xl px-5 py-14">
+        <div className="mb-5 flex items-end justify-between">
+          <h2 className="text-xl font-bold">최신 프롬프트</h2>
+          <span className="font-mono-accent text-xs text-foreground-muted">
+            최근 등록 {latest.length}개
+          </span>
+        </div>
+        <PromptGrid prompts={latest} />
+      </section>
     </div>
   );
 }

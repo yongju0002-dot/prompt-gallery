@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# personal working files, not part of the site
+/모델프롬포트/
+
+# source portrait used to generate example images — not displayed on the site
+/public/prompts/example-model-reference.png

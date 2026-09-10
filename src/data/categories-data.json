@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "cat_msci2uhk_mmfci0",
+    "label": "피규어",
+    "coverImage": "/categories/cat_msci2uhk_mmfci0-1785717718356.png"
+  },
+  {
+    "slug": "bw-portrait",
+    "label": "흑백 인물"
+  },
+  {
+    "slug": "film-polaroid",
+    "label": "필름·폴라로이드"
+  },
+  {
+    "slug": "profile-headshot",
+    "label": "프로필·헤드샷"
+  },
+  {
+    "slug": "pixel-game",
+    "label": "픽셀·게임"
+  },
+  {
+    "slug": "pet",
+    "label": "반려동물"
+  },
+  {
+    "slug": "travel-city",
+    "label": "여행·도시"
+  },
+  {
+    "slug": "anime-webtoon",
+    "label": "애니·웹툰"
+  },
+  {
+    "slug": "time-travel",
+    "label": "시간여행·시대"
+  },
+  {
+    "slug": "y2k-camcorder",
+    "label": "Y2K·캠코더"
+  },
+  {
+    "slug": "movie-poster",
+    "label": "영화 포스터"
+  },
+  {
+    "slug": "scrapbook",
+    "label": "스크랩북·콜라주"
+  },
+  {
+    "slug": "motion-dynamic",
+    "label": "모션·다이나믹"
+  },
+  {
+    "slug": "hanbok-traditional",
+    "label": "한복·전통"
+  },
+  {
+    "slug": "couple-friends",
+    "label": "커플·우정"
+  },
+  {
+    "slug": "fashion-lookbook",
+    "label": "패션·룩북"
+  },
+  {
+    "slug": "album-concept",
+    "label": "앨범·컨셉포토"
+  },
+  {
+    "slug": "seasonal",
+    "label": "계절·시즌"
+  },
+  {
+    "slug": "sticker-emoji",
+    "label": "스티커·이모티콘"
+  },
+  {
+    "slug": "miniature-diorama",
+    "label": "미니어처·디오라마"
+  },
+  {
+    "slug": "fantasy-cosplay",
+    "label": "판타지·코스프레"
+  }
+]
