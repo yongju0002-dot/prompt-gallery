@@ -1,8 +1,6 @@
 import { getCategories } from "@/data/categories";
-import { models } from "@/data/models";
 import { getLatestPrompts } from "@/data/prompts";
 import CategoryTile from "@/components/CategoryTile";
-import ModelTile from "@/components/ModelTile";
 import PromptGrid from "@/components/PromptGrid";
 
 export default function Home() {
@@ -37,23 +35,6 @@ export default function Home() {
         <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
           {categories.map((c) => (
             <CategoryTile key={c.slug} category={c} />
-          ))}
-        </div>
-      </section>
-
-      <section
-        id="models"
-        className="mx-auto w-full max-w-6xl px-5 py-14"
-      >
-        <div className="mb-5 flex items-end justify-between">
-          <h2 className="text-xl font-bold">모델별 탐색</h2>
-          <span className="font-mono-accent text-xs text-foreground-muted">
-            {models.length}개 모델
-          </span>
-        </div>
-        <div className="grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-5">
-          {models.map((m) => (
-            <ModelTile key={m.slug} model={m} />
           ))}
         </div>
       </section>

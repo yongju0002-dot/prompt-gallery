@@ -67,12 +67,9 @@ export default async function PromptDetailPage({
               </Link>
             )}
             {model && (
-              <Link
-                href={`/model/${model.slug}`}
-                className="font-mono-accent rounded-md bg-background-alt px-3 py-1 text-xs uppercase tracking-wide transition-colors hover:text-primary"
-              >
+              <span className="font-mono-accent rounded-md bg-background-alt px-3 py-1 text-xs uppercase tracking-wide">
                 {model.label}
-              </Link>
+              </span>
             )}
             {prompt.aspectRatio && (
               <span className="font-mono-accent rounded-md bg-background-alt px-3 py-1 text-xs">

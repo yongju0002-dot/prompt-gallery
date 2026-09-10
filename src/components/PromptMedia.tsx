@@ -23,11 +23,6 @@ export default function PromptMedia({
   prompt: PromptItem;
   className?: string;
 }) {
-  const topLeftBadge = prompt.needsReferencePhoto && (
-    <span className="font-mono-accent absolute left-2 top-2 rounded bg-black/40 px-2 py-0.5 text-[10px] text-white">
-      사진 업로드
-    </span>
-  );
   const topRightBadge = prompt.mediaType === "video" && (
     <span className="absolute right-2 top-2 rounded-full bg-black/30 px-2 py-0.5 text-[10px] font-medium text-white">
       영상
@@ -44,7 +39,6 @@ export default function PromptMedia({
           sizes="(max-width: 768px) 50vw, 25vw"
           className="object-cover"
         />
-        {topLeftBadge}
         {topRightBadge}
       </div>
     );
@@ -61,7 +55,6 @@ export default function PromptMedia({
       <span className="font-mono-accent text-3xl font-bold text-white/70">
         {monogram}
       </span>
-      {topLeftBadge}
       {topRightBadge}
       <span className="font-mono-accent absolute bottom-2 left-2 rounded bg-black/30 px-2 py-0.5 text-[10px] text-white">
         PREVIEW

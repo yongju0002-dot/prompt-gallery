@@ -17,9 +17,6 @@ export default function Header() {
           <Link href="/#categories" className="transition-colors hover:text-primary">
             주제별 탐색
           </Link>
-          <Link href="/#models" className="transition-colors hover:text-primary">
-            모델별 탐색
-          </Link>
           <Link href="/#latest" className="transition-colors hover:text-primary">
             최신 프롬프트
           </Link>

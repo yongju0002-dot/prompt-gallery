@@ -17,10 +17,6 @@ export function getPromptsByCategory(categorySlug: string): PromptItem[] {
   return getAllPrompts().filter((p) => p.categorySlug === categorySlug);
 }
 
-export function getPromptsByModel(modelSlug: string): PromptItem[] {
-  return getAllPrompts().filter((p) => p.modelSlug === modelSlug);
-}
-
 export function getRelatedPrompts(current: PromptItem, limit = 4): PromptItem[] {
   return getAllPrompts()
     .filter(
