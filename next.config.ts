@@ -9,6 +9,17 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/*": ["./src/data/*.json"],
   },
+  // Consolidate www onto the apex domain so search engines see one site.
+  async redirects() {
+    return [
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "www.mylifeimg.com" }],
+        destination: "https://mylifeimg.com/:path*",
+        permanent: true,
+      },
+    ];
+  },
 };
 
 export default nextConfig;
